@@ -1,0 +1,474 @@
+id,nama,kategori
+1,Pasar Tanah Abang,Hiburan
+2,Pasar Tanah Abang,Hiburan
+3,Perpustakaan Nasional,Hiburan
+4,Pulau Tidung,Hiburan
+5,Museum Satria Mandala,Hiburan
+6,Waterboom PIK (Pantai Indah Kapuk),Hiburan
+7,Alive Museum Ancol,Hiburan
+8,Kota Tua,Hiburan
+9,Galeri Nasional Indonesia,Hiburan
+10,Taman Impian Jaya Ancol,Hiburan
+11,Kota Tua,Hiburan
+12,Hutan Kota Srengseng,Hiburan
+13,Taman Mini Indonesia Indah (TMII),Hiburan
+14,Pasar Tanah Abang,Hiburan
+15,Mall Thamrin City,Hiburan
+16,Museum Joang 45,Hiburan
+17,Museum Sumpah Pemuda,Hiburan
+18,Klenteng Jin De Yuan,Hiburan
+19,Taman Menteng,Hiburan
+20,Wisata Agro Edukatif Istana Susu Cibugary,Hiburan
+21,Nol Kilometer Jl.Malioboro,Hiburan
+22,Air Terjun Kedung Pedut,Hiburan
+23,Alun-alun Utara Keraton Yogyakarta,Hiburan
+24,Pantai Indrayanti,Hiburan
+25,Candi Ijo,Hiburan
+26,Hutan Pinus Pengger,Hiburan
+27,Candi Prambanan,Hiburan
+28,Pantai Patihan,Hiburan
+29,Gembira Loka Zoo,Hiburan
+30,The Lost World Castle,Hiburan
+31,Puncak Segoro,Hiburan
+32,Bukit Wisata Pulepayung,Hiburan
+33,Pantai Glagah,Hiburan
+34,Desa Wisata Sungai Code Jogja Kota,Hiburan
+35,Kampung Wisata Taman Sari,Hiburan
+36,Jurang Tembelan Kanigoro,Hiburan
+37,De Mata Museum Jogja,Hiburan
+38,Watu Lumbung,Hiburan
+39,Sindu Kusuma Edupark (SKE),Hiburan
+40,Pasar Beringharjo,Hiburan
+41,Dago Dreampark,Hiburan
+42,Gunung Tangkuban Perahu,Hiburan
+43,Museum Geologi Bandung,Hiburan
+44,Museum Konferensi Asia Afrika,Hiburan
+45,Kyotoku Floating Market,Hiburan
+46,Glamping Lakeside Rancabali,Hiburan
+47,Gereja Katedral Santo Petrus Bandung,Hiburan
+48,Caringin Tilu,Hiburan
+49,NuArt Sculpture Park,Hiburan
+50,Taman Hutan Raya Ir. H. Djuanda,Hiburan
+51,Situ Patenggang,Hiburan
+52,Taman Begonia,Hiburan
+53,Alun-Alun Kota Bandung,Hiburan
+54,Rainbow Garden,Hiburan
+55,Masjid Raya Bandung,Hiburan
+56,Kawah Putih,Hiburan
+57,Museum Gedung Sate,Hiburan
+58,Kebun Binatang Bandung,Hiburan
+59,Kawasan Punclut,Hiburan
+60,Curug Dago,Hiburan
+61,Candi Gedong Songo,Hiburan
+62,Grand Maerakaca,Hiburan
+63,Pantai Baruna,Hiburan
+64,Indonesia Kaya Park,Hiburan
+65,Jembatan Biru Ambarawa,Hiburan
+66,Air Terjun Semirang,Hiburan
+67,Saloka Theme Park,Hiburan
+68,Water Blaster Bukit Candi Golf,Hiburan
+69,Waduk Jatibarang,Hiburan
+70,Kampoeng Djadhoel Semarang,Hiburan
+71,Wisata Lereng Kelir,Hiburan
+72,GPIB Immanuel Semarang (Gereja Blenduk),Hiburan
+73,Monumen Palagan Ambarawa,Hiburan
+74,Kampung Pelangi,Hiburan
+75,Wisata Mangrove Tapak,Hiburan
+76,Candi Gedong Songo,Hiburan
+77,Tirto Argo Siwarak,Hiburan
+78,Pantai Baruna,Hiburan
+79,Waduk Jatibarang,Hiburan
+80,Desa Wisata Lembah Kalipancur,Hiburan
+81,Taman Prestasi,Hiburan
+82,Museum Sepuluh Nopember Kota Surabaya,Hiburan
+83,Masjid Muhammad Cheng Hoo,Hiburan
+84,Ciputra Waterpark,Hiburan
+85,Air Mancur Menari,Hiburan
+86,Museum De Javasche Bank,Hiburan
+87,Surabaya North Quay,Hiburan
+88,Taman Buah Surabaya,Hiburan
+89,Rumah Batik,Hiburan
+90,Monumen Tugu Pahlawan,Hiburan
+91,Ekowisata Mangrove Wonorejo,Hiburan
+92,Taman Kunang-Kunang,Hiburan
+93,Museum TNI AL Loka Jala Crana,Hiburan
+94,Taman Buah Surabaya,Hiburan
+95,Museum TNI AL Loka Jala Crana,Hiburan
+96,Ekowisata Mangrove Wonorejo,Hiburan
+97,Ciputra Waterpark,Hiburan
+98,Museum Kesehatan Dr. Adhyatma,Hiburan
+99,Taman Ekspresi Dan Perpustakaan,Hiburan
+100,Taman Buah Surabaya,Hiburan
+101,Taman Ayodya,Hiburan
+102,Pasar Taman Puring,Hiburan
+103,Monas,Hiburan
+104,Pulau Bidadari,Hiburan
+105,Museum Wayang,Hiburan
+106,Jakarta Aquarium dan Safari,Hiburan
+107,Ocean Ecopark,Hiburan
+108,Museum Bank Indonesia,Hiburan
+109,Museum Seni Rupa dan Kramik,Hiburan
+110,Kota Tua,Hiburan
+111,Jembatan Kota Intan,Hiburan
+112,Taman Cattleya,Hiburan
+113,Museum Satria Mandala,Hiburan
+114,Pasar Taman Puring,Hiburan
+115,Grand Indonesia Mall,Hiburan
+116,Museum Fatahillah,Hiburan
+117,Tugu Proklamasi,Hiburan
+118,Masjid Istiqlal,Hiburan
+119,Taman Suropati,Hiburan
+120,Bumi Perkemahan Cibubur,Hiburan
+121,Alun Alun Selatan Yogyakarta,Hiburan
+122,Puncak Gunung Api Purba - Nglanggeran,Hiburan
+123,Candi Ijo,Hiburan
+124,Pantai Nglambor,Hiburan
+125,Pasar Beringharjo,Hiburan
+126,Bentara Budaya Yogyakarta (BBY),Hiburan
+127,Candi Borobudur,Hiburan
+128,Pantai Kukup,Hiburan
+129,Kampung Wisata Kadipaten,Hiburan
+130,Monumen Sanapati,Hiburan
+131,Taman Pelangi Jogja,Hiburan
+132,Hutan Pinus Asri,Hiburan
+133,Pantai Drini,Hiburan
+134,Kawasan Malioboro,Hiburan
+135,Monumen Serangan Umum 1 Maret,Hiburan
+136,Lava Bantal,Hiburan
+137,Kampung Wisata Kadipaten,Hiburan
+138,Bunker Kaliadem Merapi,Hiburan
+139,Taman Pelangi Yogyakarta,Hiburan
+140,Pasar Kebon Empring Bintaran,Hiburan
+141,Orchid Forest Cikole,Hiburan
+142,Gunung Papandayan,Hiburan
+143,Museum Sri Baduga,Hiburan
+144,Monumen Perjuangan Rakyat Jawa Barat,Hiburan
+145,Mountain View Golf Club,Hiburan
+146,Taman Miniatur Kereta Api,Hiburan
+147,Masjid Pusdai,Hiburan
+148,Curug Anom,Hiburan
+149,Pesona Nirwana Waterpark & Cottages,Hiburan
+150,Tebing Karaton,Hiburan
+151,Rainbow Garden,Hiburan
+152,Curug Malela,Hiburan
+153,Taman Balai Kota Bandung,Hiburan
+154,Kota Mini,Hiburan
+155,Taman Lansia,Hiburan
+156,Panghegar Waterboom Bandung,Hiburan
+157,Roemah Seni Sarasvati,Hiburan
+158,Lembang Park & Zoo,Hiburan
+159,Lawangwangi Creative Space,Hiburan
+160,Curug Batu Templek,Hiburan
+161,Lawang Sewu,Hiburan
+162,Kampung Pelangi,Hiburan
+163,Pantai Marina,Hiburan
+164,Taman Pandanaran,Hiburan
+165,Masjid Agung Ungaran,Hiburan
+166,Obyek Wisata Goa Kreo,Hiburan
+167,Water Blaster Bukit Candi Golf,Hiburan
+168,Kampung Batik Gedong Semarang,Hiburan
+169,Wisata Lereng Kelir,Hiburan
+170,Pura Giri Natha,Hiburan
+171,Monumen Palagan Ambarawa,Hiburan
+172,Masjid Kapal Semarang,Hiburan
+173,Benteng Pendem,Hiburan
+174,Hutan Wisata Tinjomoyo Semarang,Hiburan
+175,Umbul Sidomukti,Hiburan
+176,Grand Maerakaca,Hiburan
+177,Wisata Eling Bening,Hiburan
+178,Pantai Marina,Hiburan
+179,Kampoeng Rawa,Hiburan
+180,Masjid Kapal Semarang,Hiburan
+181,Taman Keputran,Hiburan
+182,Museum Kesehatan Dr. Adhyatma,Hiburan
+183,Masjid Nasional Al-Akbar,Hiburan
+184,Kenjeran Park,Hiburan
+185,Monumen Kapal Selam,Hiburan
+186,Surabaya Museum (Gedung Siola),Hiburan
+187,Waterpark Kenjeran Surabaya,Hiburan
+188,Taman Pelangi,Hiburan
+189,Jembatan Merah,Hiburan
+190,Monumen Jalesveva Jayamahe,Hiburan
+191,Taman Harmoni Keputih,Hiburan
+192,Taman Ekspresi Dan Perpustakaan,Hiburan
+193,Klenteng Sanggar Agung,Hiburan
+194,Taman Pelangi,Hiburan
+195,Taman Hiburan Rakyat,Hiburan
+196,Taman Harmoni Keputih,Hiburan
+197,Kenjeran Park,Hiburan
+198,Patung Buddha Empat Rupa,Hiburan
+199,Museum De Javasche Bank,Hiburan
+200,Hutan Bambu Keputih,Hiburan
+201,Museum Tekstil,Hiburan
+202,Pasar Petak Sembilan,Hiburan
+203,Masjid Istiqlal,Hiburan
+204,Pulau Pari,Hiburan
+205,Museum Bahari Jakarta,Hiburan
+206,SnowBay Waterpark,Hiburan
+207,SnowBay Waterpark,Hiburan
+208,Monas,Hiburan
+209,Galeri Indonesia Kaya,Hiburan
+210,Museum Bank Indonesia,Hiburan
+211,Klenteng Jin De Yuan,Hiburan
+212,Freedom Library,Hiburan
+213,Pasar Tanah Abang,Hiburan
+214,Pasar Seni,Hiburan
+215,Plaza Indonesia,Hiburan
+216,Museum Bank Indonesia,Hiburan
+217,Museum Basoeki Abdullah,Hiburan
+218,Gereja Katedral,Hiburan
+219,Taman Lapangan Banteng,Hiburan
+220,Taman Situ Lembang,Hiburan
+221,Tugu Pal Putih Jogja,Hiburan
+222,Watu Mabur Mangunan,Hiburan
+223,Monumen Sanapati,Hiburan
+224,Pantai Parangtritis,Hiburan
+225,Sindu Kusuma Edupark (SKE),Hiburan
+226,Desa Wisata Pulesari,Hiburan
+227,Kawasan Malioboro,Hiburan
+228,Hutan Mangrove Kulon Progo,Hiburan
+229,Tebing Breksi,Hiburan
+230,Green Village Gedangsari,Hiburan
+231,Galaxy Waterpark Jogja,Hiburan
+232,Kebun Teh Nglinggo,Hiburan
+233,Pantai Wediombo,Hiburan
+234,Kauman Pakualaman Yogyakarta,Hiburan
+235,Puncak Kebun Buah Mangunan,Hiburan
+236,Watu Goyang,Hiburan
+237,Tebing Breksi,Hiburan
+238,Goa Rancang Kencono,Hiburan
+239,The Lost World Castle,Hiburan
+240,Kawasan Wisata Sosrowijayan,Hiburan
+241,Jendela Alam,Hiburan
+242,Gunung Manglayang,Hiburan
+243,Museum Pendidikan Nasional,Hiburan
+244,Museum Mandala Wangsit Siliwangi,Hiburan
+245,Trans Studio Bandung,Hiburan
+246,Kota Mini,Hiburan
+247,Masjid Al-Imtizaj,Hiburan
+248,Bukit Jamur,Hiburan
+249,Panama Park 825,Hiburan
+250,Kampung Korea Bandung,Hiburan
+251,Kota Mini,Hiburan
+252,Taman Kupu-Kupu Cihanjuang,Hiburan
+253,Teras Cikapundung BBWS,Hiburan
+254,Rainbow Garden,Hiburan
+255,Monumen Bandung Lautan Api,Hiburan
+256,Saung Angklung Mang Udjo,Hiburan
+257,Museum Pendidikan Nasional,Hiburan
+258,Curug Cipanas,Hiburan
+259,Curug Tilu Leuwi Opat,Hiburan
+260,Curug Aseupan,Hiburan
+261,Sam Poo Kong Temple,Hiburan
+262,Desa Wisata Lembah Kalipancur,Hiburan
+263,Pantai Cipta,Hiburan
+264,Taman Srigunting,Hiburan
+265,Tugu Muda Semarang,Hiburan
+266,Watu Gunung Ungaran,Hiburan
+267,Kampoeng Kopi Banaran,Hiburan
+268,Semarang Gallery,Hiburan
+269,Kampoeng Rawa,Hiburan
+270,Old City 3D Trick Art Museum,Hiburan
+271,Benteng Pendem,Hiburan
+272,Masjid Agung Ungaran,Hiburan
+273,Museum Kereta Ambarawa,Hiburan
+274,Taman Kasmaran,Hiburan
+275,Wisata Alam Wana Wisata Penggaron,Hiburan
+276,Lawang Sewu,Hiburan
+277,Semarang Chinatown,Hiburan
+278,Wisata Mangrove Tapak,Hiburan
+279,Gua Maria Kerep Ambarawa,Hiburan
+280,Kota Lama Semarang,Hiburan
+281,Taman Bungkul,Hiburan
+282,Patung Buddha Empat Rupa,Hiburan
+283,Klenteng Sanggar Agung,Hiburan
+284,Kebun Binatang Surabaya,Hiburan
+285,Pantai Ria Kenjeran,Hiburan
+286,Balai Kota Surabaya,Hiburan
+287,Food Junction Grand Pakuwon,Hiburan
+288,Taman Barunawati,Hiburan
+289,Monumen Tugu Pahlawan,Hiburan
+290,Patung Sura dan Buaya,Hiburan
+291,Taman Air Mancur Menari Kenjeran,Hiburan
+292,Taman Air Mancur Menari Kenjeran,Hiburan
+293,Museum Sepuluh Nopember Kota Surabaya,Hiburan
+294,Hutan Bambu Keputih,Hiburan
+295,Museum De Javasche Bank,Hiburan
+296,Taman Kunang-Kunang,Hiburan
+297,Kebun Binatang Surabaya,Hiburan
+298,Taman Hiburan Rakyat,Hiburan
+299,Surabaya Museum (Gedung Siola),Hiburan
+300,Taman Barunawati,Hiburan
+301,Pulau Pramuka,Hiburan
+302,Museum Macan (Modern and Contemporary Art in Nusantara),Hiburan
+303,Perpustakaan Nasional,Hiburan
+304,Museum Fatahillah,Hiburan
+305,Wisata Kuliner Pecenongan,Hiburan
+306,Pasar Petak Sembilan,Hiburan
+307,Museum Taman Prasasti,Hiburan
+308,Museum Layang-layang,Hiburan
+309,Taman Cattleya,Hiburan
+310,Taman Agrowisata Cilangkap,Hiburan
+311,Bukit Lintang Sewu,Hiburan
+312,Geoforest Watu Payung Turunan,Hiburan
+313,Pantai Sundak,Hiburan
+314,Pantai Nguluran,Hiburan
+315,Embung Tambakboyo,Hiburan
+316,Pantai Depok Jogja,Hiburan
+317,Goa Pindul,Hiburan
+318,Pantai Jogan,Hiburan
+319,Seribu Batu Songgo Langit,Hiburan
+320,Watu Lumbung,Hiburan
+321,Bentara Budaya Yogyakarta (BBY),Hiburan
+322,Pintoe Langit Dahromo,Hiburan
+323,The World Landmarks - Merapi Park Yogyakarta,Hiburan
+324,Sudut Pandang Bandung,Hiburan
+325,Curug Dago,Hiburan
+326,Taman Film,Hiburan
+327,Taman Sejarah Bandung,Hiburan
+328,Kebun Tanaman Obat Sari Alam,Hiburan
+329,Water Park Bandung Indah,Hiburan
+330,Kiara Artha Park,Hiburan
+331,Gua Pawon,Hiburan
+332,Taman Vanda,Hiburan
+333,Kota Mini,Hiburan
+334,Museum Pos Indonesia,Hiburan
+335,Taman Film,Hiburan
+336,Tafso Barn,Hiburan
+337,Taman Budaya Jawa Barat,Hiburan
+338,Curug Anom,Hiburan
+339,Taman Kasmaran,Hiburan
+340,Taman Tabanas,Hiburan
+341,Brown Canyon,Hiburan
+342,Flower Farm Setiya Aji,Hiburan
+343,Wisata Eling Bening,Hiburan
+344,Semarang Contemporary Art Gallery,Hiburan
+345,Museum Kereta Ambarawa,Hiburan
+346,Kota Lama Semarang,Hiburan
+347,La Kana Chapel,Hiburan
+348,Pantai Cipta,Hiburan
+349,Kota Lama Semarang,Hiburan
+350,Brown Canyon,Hiburan
+351,Taman Flora Bratang Surabaya,Hiburan
+352,Museum TNI AL Loka Jala Crana,Hiburan
+353,Patung Buddha Empat Rupa,Hiburan
+354,Atlantis Land Surabaya,Hiburan
+355,Museum Mpu Tantular,Hiburan
+356,Taman Mundu,Hiburan
+357,Monumen Jalesveva Jayamahe,Hiburan
+358,Monumen Bambu Runcing Surabaya,Hiburan
+359,Museum Kesehatan Dr. Adhyatma,Hiburan
+360,Taman Barunawati,Hiburan
+361,Museum Mpu Tantular,Hiburan
+362,Taman Ekspresi Dan Perpustakaan,Hiburan
+363,Food Junction Grand Pakuwon,Hiburan
+364,Taman Bungkul,Hiburan
+365,Museum Mpu Tantular,Hiburan
+366,Kebun Bibit Wonorejo,Hiburan
+367,Pulau Pelangi,Hiburan
+368,Masjid Istiqlal,Hiburan
+369,Museum Wayang,Hiburan
+370,Museum Nasional,Hiburan
+371,Museum Perangko,Hiburan
+372,Taman Spathodea,Hiburan
+373,Taman Lapangan Banteng,Hiburan
+374,Bendung Lepen,Hiburan
+375,Pantai Krakal,Hiburan
+376,Pantai Samas,Hiburan
+377,Wisata Kalibiru,Hiburan
+378,Pantai Ngrenehan,Hiburan
+379,"Bukit Paralayang, Watugupit",Hiburan
+380,Wisata Kaliurang,Hiburan
+381,Curug Batu Templek,Hiburan
+382,Museum Nike Ardilla,Hiburan
+383,Chingu Cafe Little Seoul,Hiburan
+384,Peta Park,Hiburan
+385,Stone Garden Geopark,Hiburan
+386,Ade Irma Suryani Nasution Traffic Park,Hiburan
+387,Museum Nike Ardilla,Hiburan
+388,Curug Bugbrug,Hiburan
+389,Curug Luhur Waterfall,Hiburan
+390,Kampung Tematik Jawi,Hiburan
+391,Durian Gardens and Tourism Education Watu Simbar,Hiburan
+392,Gua Maria Kerep Ambarawa,Hiburan
+393,Hutan Pinus Kayon,Hiburan
+394,Semarang Chinatown,Hiburan
+395,Keraton Surabaya,Hiburan
+396,Gereja Perawan Maria Tak Berdosa Surabaya,Hiburan
+397,Patung Sura dan Buaya,Hiburan
+398,House of Sampoerna,Hiburan
+399,Taman Hiburan Rakyat,Hiburan
+400,Kebun Bibit Wonorejo,Hiburan
+401,Museum De Javasche Bank,Hiburan
+402,Atlantis Land Surabaya,Hiburan
+403,Taman Flora Bratang Surabaya,Hiburan
+404,Taman Air Mancur Menari Kenjeran,Hiburan
+405,Taman Mundu,Hiburan
+406,Banda Aceh,Hiburan
+407,Bandung,Hiburan
+408,Palembang,Hiburan
+409,Padang,Hiburan
+410,Bengkulu,Hiburan
+411,Pekanbaru,Hiburan
+412,Tanjung Pinang,Hiburan
+413,Jambi,Hiburan
+414,Lampung,Hiburan
+415,Pangkal Pinang,Hiburan
+416,Riau,Hiburan
+417,Kepulauan Riau,Hiburan
+418,Bangka Belitung,Hiburan
+419,Pontianak,Hiburan
+420,Palangkaraya,Hiburan
+421,Banjarbaru,Hiburan
+422,Tanjung Selor,Hiburan
+423,Jakarta,Hiburan
+424,Banten,Hiburan
+425,Serang,Hiburan
+426,Nanggroe Aceh Darussalam,Hiburan
+427,Sumatera Utara,Hiburan
+428,Sumatera Selatan,Hiburan
+429,Sumatera Barat,Hiburan
+430,Kalimantan Timur,Hiburan
+431,Kalimantan Barat,Hiburan
+432,Kalimantan Tengah,Hiburan
+433,Kalimantan Selatan,Hiburan
+434,Kalimantan Utara,Hiburan
+435,Dki Jakarta,Hiburan
+436,Jawa Barat,Hiburan
+437,Jawa Tengah,Hiburan
+438,Semarang,Hiburan
+439,DI Yogyakarta,Hiburan
+440,Yogyakarta,Hiburan
+441,Jogja,Hiburan
+442,Jogjakarta,Hiburan
+443,Jawa Timur,Hiburan
+444,Surabaya,Hiburan
+445,Bali,Hiburan
+446,Denpasar,Hiburan
+447,Nusa Tenggara Barat,Hiburan
+448,Mataram,Hiburan
+449,Nusa Tenggara Timur,Hiburan
+450,Kupang,Hiburan
+451,Sulawesi Utara,Hiburan
+452,Manado,Hiburan
+453,Sulawesi Barat,Hiburan
+454,Palu,Hiburan
+455,Gorontalo,Hiburan
+456,Sulawesi Tenggara,Hiburan
+457,Kendari,Hiburan
+458,Sulawesi Selatan,Hiburan
+459,Makassar,Hiburan
+460,Maluku Utara,Hiburan
+461,Sofifi,Hiburan
+462,Maluku,Hiburan
+463,Ambon,Hiburan
+464,Papua Barat,Hiburan
+465,Manokwari,Hiburan
+466,Papua,Hiburan
+467,Jayapura,Hiburan
+468,Papua Selatan,Hiburan
+469,Merauke,Hiburan
+470,Papua Tengah,Hiburan
+471,Nabire,Hiburan
+472,Papua Pegunungan,Hiburan
+473,Jayawijaya,Hiburan

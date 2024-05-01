@@ -1,0 +1,2136 @@
+id,nama,kategori
+1,Abon,Makanan dan Minuman
+2,Abon haruwan,Makanan dan Minuman
+3,Agar-agar,Makanan dan Minuman
+4,Akar tonjong segar,Makanan dan Minuman
+5,Aletoge segar,Makanan dan Minuman
+6,Alpukat segar,Makanan dan Minuman
+7,Ampas kacang hijau,Makanan dan Minuman
+8,Ampas Tahu,Makanan dan Minuman
+9,Ampas tahu kukus,Makanan dan Minuman
+10,Ampas tahu mentah,Makanan dan Minuman
+11,Anak sapi daging gemuk segar,Makanan dan Minuman
+12,Anak sapi daging kurus segar,Makanan dan Minuman
+13,Anak sapi daging sedang segar,Makanan dan Minuman
+14,Andaliman segar,Makanan dan Minuman
+15,Andewi,Makanan dan Minuman
+16,Anggur hutan segar,Makanan dan Minuman
+17,Angsa,Makanan dan Minuman
+18,Anyang sayur,Makanan dan Minuman
+19,Apel,Makanan dan Minuman
+20,Apel malang segar,Makanan dan Minuman
+21,Arbei,Makanan dan Minuman
+22,Ares sayur,Makanan dan Minuman
+23,Arrowroot segar,Makanan dan Minuman
+24,Arwan sirsir,Makanan dan Minuman
+25,Asam kandis segar,Makanan dan Minuman
+26,Asam masak di pohon,Makanan dan Minuman
+27,Asam payak segar,Makanan dan Minuman
+28,Asan kandis kering,Makanan dan Minuman
+29,Asinan Bogor sayuran,Makanan dan Minuman
+30,Ayam,Makanan dan Minuman
+31,Ayam  goreng Kentuckysayap,Makanan dan Minuman
+32,Ayam ampela goreng,Makanan dan Minuman
+33,Ayam dideh/darah segar,Makanan dan Minuman
+34,Ayam goreng church texa sayap,Makanan dan Minuman
+35,Ayam goreng church texas dada,Makanan dan Minuman
+36,Ayam goreng kalasan paha,Makanan dan Minuman
+37,Ayam goreng kentucky dada,Makanan dan Minuman
+38,Ayam goreng Kentucky paha,Makanan dan Minuman
+39,Ayam goreng mbok berek dada,Makanan dan Minuman
+40,Ayam goreng paha,Makanan dan Minuman
+41,Ayam goreng pasundan dada,Makanan dan Minuman
+42,Ayam goreng pasundan paha,Makanan dan Minuman
+43,Ayam goreng pioneer dada,Makanan dan Minuman
+44,Ayam goreng sukabumi dada,Makanan dan Minuman
+45,Ayam goreng sukabumi paha,Makanan dan Minuman
+46,Ayam hati segar,Makanan dan Minuman
+47,Ayam taliwang masakan,Makanan dan Minuman
+48,Ayam usus goreng,Makanan dan Minuman
+49,Babat,Makanan dan Minuman
+50,Babi daging gemuk segar,Makanan dan Minuman
+51,Babi daging kurus segar,Makanan dan Minuman
+52,Babi ginjal segar,Makanan dan Minuman
+53,Babi hati segar,Makanan dan Minuman
+54,Babi hutan masak rica masakan,Makanan dan Minuman
+55,Bacang,Makanan dan Minuman
+56,Bagea kelapa asin,Makanan dan Minuman
+57,Bagea kelapa manis,Makanan dan Minuman
+58,Bagea kenari asin,Makanan dan Minuman
+59,Bagea kenari manis,Makanan dan Minuman
+60,Bagea kw 1,Makanan dan Minuman
+61,Bagea kw 2,Makanan dan Minuman
+62,Baje,Makanan dan Minuman
+63,Bakpia kue,Makanan dan Minuman
+64,Bakso ,Makanan dan Minuman
+65,Bakung segar,Makanan dan Minuman
+66,Bakwan,Makanan dan Minuman
+67,Baligo,Makanan dan Minuman
+68,Bantal,Makanan dan Minuman
+69,Barongko,Makanan dan Minuman
+70,Batang Tading,Makanan dan Minuman
+71,Batar daan,Makanan dan Minuman
+72,Batatas gembili segar,Makanan dan Minuman
+73,Batatas kelapa ubi bakar,Makanan dan Minuman
+74,Batatas kelapa ubi kukus,Makanan dan Minuman
+75,Batatas kelapa ubi segar,Makanan dan Minuman
+76,Batatas tali ubi rebus,Makanan dan Minuman
+77,Bawang Bombay,Makanan dan Minuman
+78,Bawang Merah,Makanan dan Minuman
+79,Bawang Putih,Makanan dan Minuman
+80,Bayam kukus,Makanan dan Minuman
+81,Bayam Merah,Makanan dan Minuman
+82,Bayam merah segar,Makanan dan Minuman
+83,Bayam rebus,Makanan dan Minuman
+84,Bayam segar,Makanan dan Minuman
+85,Bayam tumis + oncom,Makanan dan Minuman
+86,Bayam tumis bersantan,Makanan dan Minuman
+87,Bebek (itik),Makanan dan Minuman
+88,Bebek alabio daging segar,Makanan dan Minuman
+89,Bebek daging goreng,Makanan dan Minuman
+90,Beberuk,Makanan dan Minuman
+91,Beef burger,Makanan dan Minuman
+92,Beef teriyaki masakan,Makanan dan Minuman
+93,Beef yakiniku masakan,Makanan dan Minuman
+94,Bekasam,Makanan dan Minuman
+95,Bekasang,Makanan dan Minuman
+96,Belibis daging segar,Makanan dan Minuman
+97,Belimbing,Makanan dan Minuman
+98,Belitung talas kukus,Makanan dan Minuman
+99,Belut goreng,Makanan dan Minuman
+100,Belut segar,Makanan dan Minuman
+101,Belutlaut segar,Makanan dan Minuman
+102,Bengkuang,Makanan dan Minuman
+103,Bentul (Komba)  talas segar,Makanan dan Minuman
+104,Bentul talas kukus,Makanan dan Minuman
+105,Beras Cerdas,Makanan dan Minuman
+106,Beras ganyong,Makanan dan Minuman
+107,Beras Giling,Makanan dan Minuman
+108,Beras Giling masak (nasi) ,Makanan dan Minuman
+109,Beras giling mentah,Makanan dan Minuman
+110,Beras giling var pelita mentah,Makanan dan Minuman
+111,Beras giling var rojolele mentah,Makanan dan Minuman
+112,Beras hitam mentah,Makanan dan Minuman
+113,Beras jagung kuning kering mentah,Makanan dan Minuman
+114,Beras jagung putih kering mentah,Makanan dan Minuman
+115,Beras Ketan Hitam,Makanan dan Minuman
+116,Beras Ketan Hitam kukus,Makanan dan Minuman
+117,Beras Ketan Hitam tape,Makanan dan Minuman
+118,Beras Ketan Hitam tumbuk,Makanan dan Minuman
+119,Beras ketan hitam tumbuk mentah,Makanan dan Minuman
+120,Beras Ketan Putih,Makanan dan Minuman
+121,Beras Ketan Putih kukus,Makanan dan Minuman
+122,Beras Ketan Putih tape,Makanan dan Minuman
+123,Beras Ketan Putih tumbuk,Makanan dan Minuman
+124,Beras ketan putih tumbuk mentah,Makanan dan Minuman
+125,Beras ladang mentah,Makanan dan Minuman
+126,Beras Menir,Makanan dan Minuman
+127,Beras menir mentah,Makanan dan Minuman
+128,Beras Merah tumbuk,Makanan dan Minuman
+129,Beras Parboiled,Makanan dan Minuman
+130,Beras parboiled,Makanan dan Minuman
+131,Beras Pecah Kulit,Makanan dan Minuman
+132,Beras Setengah Giling,Makanan dan Minuman
+133,Beras Siger,Makanan dan Minuman
+134,Beras tumbuk mentah,Makanan dan Minuman
+135,Beras tumbuk merah mentah,Makanan dan Minuman
+136,Betok wadi masakan,Makanan dan Minuman
+137,Bihun,Makanan dan Minuman
+138,Bihun Goreng ,Makanan dan Minuman
+139,Bihun goreng instan,Makanan dan Minuman
+140,Bihun Jagung mentah,Makanan dan Minuman
+141,Bihun mentah,Makanan dan Minuman
+142,Biji Jambu Mete,Makanan dan Minuman
+143,Biji Jambu Mete goreng,Makanan dan Minuman
+144,Biji nangka/Biji salak,Makanan dan Minuman
+145,Bika ambon,Makanan dan Minuman
+146,Bika Ambon ,Makanan dan Minuman
+147,Bir (4% alkohol),Makanan dan Minuman
+148,Biskuit,Makanan dan Minuman
+149,Bit,Makanan dan Minuman
+150,Biwah segar,Makanan dan Minuman
+151,Bonggol Pisang,Makanan dan Minuman
+152,Bonggol Pisang kering,Makanan dan Minuman
+153,Bongkrek (tempe bungkil),Makanan dan Minuman
+154,Boros Kunci,Makanan dan Minuman
+155,Boros Laja (lengkuas),Makanan dan Minuman
+156,Botok lamtoro,Makanan dan Minuman
+157,Brem,Makanan dan Minuman
+158,Brondong ,Makanan dan Minuman
+159,Brongkos,Makanan dan Minuman
+160,Buah Atung,Makanan dan Minuman
+161,Buah kelenting segar,Makanan dan Minuman
+162,Buah kelor,Makanan dan Minuman
+163,Buah kom segar,Makanan dan Minuman
+164,Buah Mentega (bisbul),Makanan dan Minuman
+165,Buah merah,Makanan dan Minuman
+166,Buah Naga Merah segar,Makanan dan Minuman
+167,Buah Naga Putih segar,Makanan dan Minuman
+168,Buah negri segar,Makanan dan Minuman
+169,Buah Nona,Makanan dan Minuman
+170,Buah rotan segar,Makanan dan Minuman
+171,Buah rukam segar,Makanan dan Minuman
+172,Buah ruruhi segar,Makanan dan Minuman
+173,Buah tuppa segar,Makanan dan Minuman
+174,Buaya daging dendeng mentah,Makanan dan Minuman
+175,Bubur ,Makanan dan Minuman
+176,Bubur sagu,Makanan dan Minuman
+177,Bubur tinotuan (Manado),Makanan dan Minuman
+178,Bulgogi masakan,Makanan dan Minuman
+179,Bulung Jajan,Makanan dan Minuman
+180,Bulung Sangu,Makanan dan Minuman
+181,Buncis,Makanan dan Minuman
+182,Buncis asam,Makanan dan Minuman
+183,Buncis rebus,Makanan dan Minuman
+184,Bunga pepaya segar,Makanan dan Minuman
+185,Bunga turi segar,Makanan dan Minuman
+186,Bungkil Biji Karet,Makanan dan Minuman
+187,Bungkil Kacang Tanah,Makanan dan Minuman
+188,Bungkil Kelapa,Makanan dan Minuman
+189,Buntil ,Makanan dan Minuman
+190,Buntil daun talas,Makanan dan Minuman
+191,Buras ,Makanan dan Minuman
+192,Burung sarang segar,Makanan dan Minuman
+193,Cabai gembor merah segar,Makanan dan Minuman
+194,Cabai hijau segar,Makanan dan Minuman
+195,Cabai merah kering,Makanan dan Minuman
+196,Cabai merah segar,Makanan dan Minuman
+197,Cabai rawit segar,Makanan dan Minuman
+198,Caisin segar,Makanan dan Minuman
+199,Cakalang asar (asap papua),Makanan dan Minuman
+200,Cake tape,Makanan dan Minuman
+201,Cammetutu,Makanan dan Minuman
+202,Cantel mentah,Makanan dan Minuman
+203,Cap cai sayur,Makanan dan Minuman
+204,Carica papaya segar,Makanan dan Minuman
+205,Cassavastick,Makanan dan Minuman
+206,Cempedak,Makanan dan Minuman
+207,Cengkeh kering,Makanan dan Minuman
+208,Centel,Makanan dan Minuman
+209,Ceriping getuk singkong,Makanan dan Minuman
+210,Chicken teriyaki masakan,Makanan dan Minuman
+211,Chikiniku masakan,Makanan dan Minuman
+212,Coklat bubuk,Makanan dan Minuman
+213,Coklat Manis batang,Makanan dan Minuman
+214,Coklat Pahit batang,Makanan dan Minuman
+215,Coklat Susu batang,Makanan dan Minuman
+216,Combro ,Makanan dan Minuman
+217,Corned Beef,Makanan dan Minuman
+218,Coto mangkasara kuda masakan,Makanan dan Minuman
+219,Coto mangkasara sapi masakan,Makanan dan Minuman
+220,Cue Selar Kuning,Makanan dan Minuman
+221,Cuka,Makanan dan Minuman
+222,Cumi-cumi goreng,Makanan dan Minuman
+223,Cumi-cumi segar,Makanan dan Minuman
+224,Daging Anak Sapi,Makanan dan Minuman
+225,Daging Asap,Makanan dan Minuman
+226,Daging Babi Gemuk,Makanan dan Minuman
+227,Daging Babi Kurus,Makanan dan Minuman
+228,Daging Domba,Makanan dan Minuman
+229,Daging Kambing,Makanan dan Minuman
+230,Daging Kerbau,Makanan dan Minuman
+231,Daging Kuda,Makanan dan Minuman
+232,Daging Sapi,Makanan dan Minuman
+233,Daun bangun-bangun segar,Makanan dan Minuman
+234,Daun Bawang,Makanan dan Minuman
+235,Daun bawang  merah segar,Makanan dan Minuman
+236,Daun bebuas segar,Makanan dan Minuman
+237,Daun belem segar,Makanan dan Minuman
+238,Daun Beluntas,Makanan dan Minuman
+239,Daun Cincau,Makanan dan Minuman
+240,Daun Gandaria,Makanan dan Minuman
+241,Daun gedi besar segar,Makanan dan Minuman
+242,Daun gelang segar,Makanan dan Minuman
+243,Daun gunda bali segar,Makanan dan Minuman
+244,Daun gunda serang segar,Makanan dan Minuman
+245,Daun Jambu Mete muda,Makanan dan Minuman
+246,Daun jampang segar,Makanan dan Minuman
+247,Daun jawaw seluang segar,Makanan dan Minuman
+248,Daun jonghe segar,Makanan dan Minuman
+249,Daun kacang ma segar,Makanan dan Minuman
+250,Daun Kacang Panjang,Makanan dan Minuman
+251,Daun Kacang Panjang kukus,Makanan dan Minuman
+252,Daun kacang panjang segar,Makanan dan Minuman
+253,Daun kasbi/singkong karet segar,Makanan dan Minuman
+254,Daun Katuk,Makanan dan Minuman
+255,Daun katuk rebus,Makanan dan Minuman
+256,Daun katuk segar,Makanan dan Minuman
+257,Daun Kecipir,Makanan dan Minuman
+258,Daun Kedondong,Makanan dan Minuman
+259,Daun Kelor,Makanan dan Minuman
+260,Daun Kelor rebus,Makanan dan Minuman
+261,Daun Kemangi,Makanan dan Minuman
+262,Daun kenikir segar,Makanan dan Minuman
+263,Daun kesum segar,Makanan dan Minuman
+264,Daun kol sawi segar,Makanan dan Minuman
+265,Daun Koro,Makanan dan Minuman
+266,Daun kubis segar,Makanan dan Minuman
+267,Daun Kumak,Makanan dan Minuman
+268,Daun Labu Siam,Makanan dan Minuman
+269,Daun Labu Waluh,Makanan dan Minuman
+270,Daun lamtoro segar,Makanan dan Minuman
+271,Daun leilem segar,Makanan dan Minuman
+272,Daun Leunca,Makanan dan Minuman
+273,Daun Lobak,Makanan dan Minuman
+274,Daun Lompong Tales,Makanan dan Minuman
+275,Daun Mangkokan,Makanan dan Minuman
+276,Daun matel ambon segar,Makanan dan Minuman
+277,Daun Melinjo,Makanan dan Minuman
+278,Daun Mengkudu Kukus,Makanan dan Minuman
+279,Daun ndusuk segar,Makanan dan Minuman
+280,Daun Oyong,Makanan dan Minuman
+281,Daun oyong segar,Makanan dan Minuman
+282,Daun Pakis,Makanan dan Minuman
+283,Daun pakis longgiho segar,Makanan dan Minuman
+284,Daun pakis segar,Makanan dan Minuman
+285,Daun pakis wambateu segar,Makanan dan Minuman
+286,Daun paku segar,Makanan dan Minuman
+287,Daun pangisegar,Makanan dan Minuman
+288,Daun pare segar,Makanan dan Minuman
+289,Daun pepaya segar,Makanan dan Minuman
+290,Daun Pete Cina,Makanan dan Minuman
+291,Daun Poh-pohan,Makanan dan Minuman
+292,Daun salam  bubuk,Makanan dan Minuman
+293,Daun selasih segar,Makanan dan Minuman
+294,Daun Semanggi,Makanan dan Minuman
+295,Daun semanggi segar,Makanan dan Minuman
+296,Daun simpur segar,Makanan dan Minuman
+297,Daun singkil segar,Makanan dan Minuman
+298,Daun Singkong,Makanan dan Minuman
+299,Daun singkong ambon segar,Makanan dan Minuman
+300,Daun singkong ampenan segar,Makanan dan Minuman
+301,Daun singkong kopang segar,Makanan dan Minuman
+302,Daun Singkong lodeh,Makanan dan Minuman
+303,Daun Singkong rebus,Makanan dan Minuman
+304,Daun singkong segar,Makanan dan Minuman
+305,Daun Sintrong,Makanan dan Minuman
+306,Daun talas rebus,Makanan dan Minuman
+307,Daun talas segar,Makanan dan Minuman
+308,Daun Tales,Makanan dan Minuman
+309,Daun Tales rebus,Makanan dan Minuman
+310,Daun tespong segar,Makanan dan Minuman
+311,Daun Ubi Jalar,Makanan dan Minuman
+312,Daun Ubi Jalar kukus,Makanan dan Minuman
+313,Daun ubi kuning segar,Makanan dan Minuman
+314,Daun ubi merah kukus,Makanan dan Minuman
+315,Daun ubi merah segar,Makanan dan Minuman
+316,Daun ubi putih segar,Makanan dan Minuman
+317,Daun ubi tinta segar,Makanan dan Minuman
+318,Deblo ,Makanan dan Minuman
+319,Dendeng belut goreng,Makanan dan Minuman
+320,Dendeng Daging Sapi,Makanan dan Minuman
+321,Dendeng mujahir goreng,Makanan dan Minuman
+322,Dideh darah ayam,Makanan dan Minuman
+323,Dideh darah sapi,Makanan dan Minuman
+324,Djibokum masakan,Makanan dan Minuman
+325,Dodol,Makanan dan Minuman
+326,Dodol bali,Makanan dan Minuman
+327,Dodol banjarmasin,Makanan dan Minuman
+328,Dodol galamai,Makanan dan Minuman
+329,Dodol kedondong,Makanan dan Minuman
+330,Dodol manado,Makanan dan Minuman
+331,Dodonkol ,Makanan dan Minuman
+332,Domba daging gemuk segar,Makanan dan Minuman
+333,Domba daging kurus  segar,Makanan dan Minuman
+334,Domba ginjal segar,Makanan dan Minuman
+335,Duku,Makanan dan Minuman
+336,Durian,Makanan dan Minuman
+337,Duwet segar,Makanan dan Minuman
+338,Eceng Gondok,Makanan dan Minuman
+339,Embacang,Makanan dan Minuman
+340,Empal (daging) Goreng masakan,Makanan dan Minuman
+341,Empal Goreng,Makanan dan Minuman
+342,Emping (kerupuk melinjo),Makanan dan Minuman
+343,Emping beras,Makanan dan Minuman
+344,Emping komak,Makanan dan Minuman
+345,Encung asam segar,Makanan dan Minuman
+346,Enting-enting gepuk hello kity,Makanan dan Minuman
+347,Enting-enting gepuk kacang tanah,Makanan dan Minuman
+348,Enting-enting wijen,Makanan dan Minuman
+349,Erbis,Makanan dan Minuman
+350,Es krim,Makanan dan Minuman
+351,Es Krim (Coconut milk) ,Makanan dan Minuman
+352,Es Mambo ,Makanan dan Minuman
+353,Es Sirup ,Makanan dan Minuman
+354,Fillet o-fish,Makanan dan Minuman
+355,Gadeng/Gadung kering,Makanan dan Minuman
+356,Gado-gado,Makanan dan Minuman
+357,Gadung kukus,Makanan dan Minuman
+358,Gadung mentah,Makanan dan Minuman
+359,Gadung ubi kukus,Makanan dan Minuman
+360,Gadung ubi segar,Makanan dan Minuman
+361,Gambas (Oyong),Makanan dan Minuman
+362,Gambas lodeh,Makanan dan Minuman
+363,Gandaria,Makanan dan Minuman
+364,Ganyong kukus,Makanan dan Minuman
+365,Ganyong mentah,Makanan dan Minuman
+366,Ganyong rebus,Makanan dan Minuman
+367,Ganyong segar,Makanan dan Minuman
+368,Gaplek,Makanan dan Minuman
+369,Gatep segar,Makanan dan Minuman
+370,Gatot,Makanan dan Minuman
+371,Geblek,Makanan dan Minuman
+372,Gelatine,Makanan dan Minuman
+373,Gembili,Makanan dan Minuman
+374,Gembili ubi segar,Makanan dan Minuman
+375,Gemblong,Makanan dan Minuman
+376,Gendar goreng,Makanan dan Minuman
+377,Genjer segar,Makanan dan Minuman
+378,Geplak,Makanan dan Minuman
+379,Geplak jahe,Makanan dan Minuman
+380,Gete kuah asam masakan,Makanan dan Minuman
+381,Getuk goreng,Makanan dan Minuman
+382,Getuk Lindri ,Makanan dan Minuman
+383,Getuk pisang,Makanan dan Minuman
+384,Getuk singkong,Makanan dan Minuman
+385,Ginjal Babi,Makanan dan Minuman
+386,Ginjal Domba,Makanan dan Minuman
+387,Ginjal Sapi,Makanan dan Minuman
+388,Gudeg ,Makanan dan Minuman
+389,Gudeg sayur,Makanan dan Minuman
+390,Gula Aren,Makanan dan Minuman
+391,Gula Kelapa,Makanan dan Minuman
+392,Gula Merah Tebu belum dimurnikan,Makanan dan Minuman
+393,Gula putih,Makanan dan Minuman
+394,Gulai asam keueung masakan,Makanan dan Minuman
+395,Gulai ikan masakan,Makanan dan Minuman
+396,Gulai ikan paya masakan,Makanan dan Minuman
+397,Gulai kambing,Makanan dan Minuman
+398,Gulai keumamah masakan,Makanan dan Minuman
+399,Gulai pakis,Makanan dan Minuman
+400,Gulai pliek,Makanan dan Minuman
+401,Gulai tiram masakan,Makanan dan Minuman
+402,Gurame asem manis masakan,Makanan dan Minuman
+403,Gurandil,Makanan dan Minuman
+404,Ham,Makanan dan Minuman
+405,Hangop,Makanan dan Minuman
+406,Hati Babi,Makanan dan Minuman
+407,Hati Sapi,Makanan dan Minuman
+408,Havermout,Makanan dan Minuman
+409,Hofa/Ubi hutan segar,Makanan dan Minuman
+410,Ikan asar merah masakan,Makanan dan Minuman
+411,Ikan Asin bilis goreng,Makanan dan Minuman
+412,Ikan Asin gabus goreng,Makanan dan Minuman
+413,Ikan Asin japuh goreng,Makanan dan Minuman
+414,Ikan Asin kering,Makanan dan Minuman
+415,Ikan Asin pari goreng,Makanan dan Minuman
+416,Ikan Asin pepetek goreng,Makanan dan Minuman
+417,Ikan Asin sirinding goreng,Makanan dan Minuman
+418,Ikan Asin teri goreng,Makanan dan Minuman
+419,Ikan Bader (Tawes),Makanan dan Minuman
+420,Ikan balong segar,Makanan dan Minuman
+421,Ikan bambangan segar,Makanan dan Minuman
+422,Ikan Bandeng,Makanan dan Minuman
+423,Ikan bandeng presto masakan,Makanan dan Minuman
+424,Ikan banjar segar,Makanan dan Minuman
+425,Ikan baronang segar,Makanan dan Minuman
+426,Ikan baung bakar,Makanan dan Minuman
+427,Ikan baung segar,Makanan dan Minuman
+428,Ikan Bawal,Makanan dan Minuman
+429,Ikan Bekasang,Makanan dan Minuman
+430,Ikan Belida bakar,Makanan dan Minuman
+431,Ikan Belida segar,Makanan dan Minuman
+432,Ikan Belut Segar goreng,Makanan dan Minuman
+433,Ikan Belut Segar mentah,Makanan dan Minuman
+434,Ikan Beunteur,Makanan dan Minuman
+435,Ikan biawan segar,Makanan dan Minuman
+436,Ikan bili segar,Makanan dan Minuman
+437,Ikan bubara segar,Makanan dan Minuman
+438,Ikan bulan-bulan segar,Makanan dan Minuman
+439,Ikan cakalang asap mentah,Makanan dan Minuman
+440,Ikan cakalang asin mentah,Makanan dan Minuman
+441,Ikan cakalang hati segar,Makanan dan Minuman
+442,Ikan cakalang jantung segar,Makanan dan Minuman
+443,Ikan cakalang perut segar,Makanan dan Minuman
+444,Ikan cakalang segar,Makanan dan Minuman
+445,Ikan calo/ peda mentah,Makanan dan Minuman
+446,Ikan daun segar,Makanan dan Minuman
+447,Ikan Ekor Kuning,Makanan dan Minuman
+448,Ikan Gabus asap mentah,Makanan dan Minuman
+449,Ikan Gabus kering,Makanan dan Minuman
+450,Ikan Gabus segar,Makanan dan Minuman
+451,Ikan gete goreng,Makanan dan Minuman
+452,Ikan hitam segar,Makanan dan Minuman
+453,Ikan hiu kering,Makanan dan Minuman
+454,Ikan hiu segar,Makanan dan Minuman
+455,Ikan kacangan segar,Makanan dan Minuman
+456,Ikan kakap segar,Makanan dan Minuman
+457,Ikan kakatua segar,Makanan dan Minuman
+458,Ikan kapar segar,Makanan dan Minuman
+459,Ikan katombo asin,Makanan dan Minuman
+460,Ikan kawalinya segar,Makanan dan Minuman
+461,Ikan kayu kering,Makanan dan Minuman
+462,Ikan Kembung,Makanan dan Minuman
+463,Ikan kima segar,Makanan dan Minuman
+464,Ikan Lais bakar,Makanan dan Minuman
+465,Ikan Layang,Makanan dan Minuman
+466,Ikan layur segar,Makanan dan Minuman
+467,Ikan lehoma segar,Makanan dan Minuman
+468,Ikan Lele goreng,Makanan dan Minuman
+469,Ikan Lemuru,Makanan dan Minuman
+470,Ikan lidah segar,Makanan dan Minuman
+471,Ikan lomak asin mentah,Makanan dan Minuman
+472,Ikan malalugis segar,Makanan dan Minuman
+473,Ikan Mas,Makanan dan Minuman
+474,Ikan Mas goreng,Makanan dan Minuman
+475,Ikan Mas pepes,Makanan dan Minuman
+476,Ikan mayong segar,Makanan dan Minuman
+477,Ikan Mujair dendeng goreng,Makanan dan Minuman
+478,Ikan Mujair dendeng mentah,Makanan dan Minuman
+479,Ikan Mujair goreng,Makanan dan Minuman
+480,Ikan Mujair pepes,Makanan dan Minuman
+481,Ikan Mujair segar,Makanan dan Minuman
+482,Ikan nasu metti segar,Makanan dan Minuman
+483,Ikan oci kembung segar,Makanan dan Minuman
+484,Ikan Papuyu bakar,Makanan dan Minuman
+485,Ikan papuyu/ betok segar,Makanan dan Minuman
+486,Ikan Patin bakar,Makanan dan Minuman
+487,Ikan Patin segar,Makanan dan Minuman
+488,Ikan peda banjar mentah,Makanan dan Minuman
+489,Ikan Pepetek,Makanan dan Minuman
+490,Ikan Pindang banjar mentah,Makanan dan Minuman
+491,Ikan Pindang benggol mentah,Makanan dan Minuman
+492,Ikan Pindang layang mentah,Makanan dan Minuman
+493,Ikan Pindang selar mentah,Makanan dan Minuman
+494,Ikan sale lais mentah,Makanan dan Minuman
+495,Ikan Sale segar,Makanan dan Minuman
+496,Ikan saluang kering mentah,Makanan dan Minuman
+497,Ikan saluang segar,Makanan dan Minuman
+498,Ikan sanggang masakan,Makanan dan Minuman
+499,Ikan sarden segar,Makanan dan Minuman
+500,Ikan Segar,Makanan dan Minuman
+501,Ikan Selar kering,Makanan dan Minuman
+502,Ikan selar kuning cue mentah,Makanan dan Minuman
+503,Ikan selar segar,Makanan dan Minuman
+504,Ikan Sepat kering,Makanan dan Minuman
+505,Ikan sepat segar,Makanan dan Minuman
+506,Ikan sidat segar,Makanan dan Minuman
+507,Ikan sunu asin mentah,Makanan dan Minuman
+508,Ikan sunu segar,Makanan dan Minuman
+509,Ikan tahuman segar,Makanan dan Minuman
+510,Ikan tarmon segar,Makanan dan Minuman
+511,Ikan telan segar,Makanan dan Minuman
+512,Ikan telur asin mentah,Makanan dan Minuman
+513,Ikan Tembang,Makanan dan Minuman
+514,Ikan tempahas segar,Makanan dan Minuman
+515,Ikan tepung mentah,Makanan dan Minuman
+516,Ikan terbang segar,Makanan dan Minuman
+517,Ikan Teri bubuk,Makanan dan Minuman
+518,Ikan Teri kering,Makanan dan Minuman
+519,Ikan Teri Kering tawar,Makanan dan Minuman
+520,Ikan Teri Nasi kering,Makanan dan Minuman
+521,Ikan teri segar,Makanan dan Minuman
+522,Ikan Teri tepung,Makanan dan Minuman
+523,Ikan titang segar,Makanan dan Minuman
+524,Ikan tongkol segar,Makanan dan Minuman
+525,Ikan turi segar,Makanan dan Minuman
+526,Intip goreng,Makanan dan Minuman
+527,Itik alabio daging dendeng mentah,Makanan dan Minuman
+528,Jagung grontol,Makanan dan Minuman
+529,Jagung Kuning giling,Makanan dan Minuman
+530,Jagung Kuning muda,Makanan dan Minuman
+531,Jagung Kuning pipil baru,Makanan dan Minuman
+532,Jagung kuning pipil kering mentah,Makanan dan Minuman
+533,Jagung Kuning pipil lama,Makanan dan Minuman
+534,Jagung kuning pipil rebus,Makanan dan Minuman
+535,Jagung Kuning segar,Makanan dan Minuman
+536,Jagung kuning tepung,Makanan dan Minuman
+537,Jagung muda,Makanan dan Minuman
+538,Jagung muda kuning mentah,Makanan dan Minuman
+539,Jagung muda rebus,Makanan dan Minuman
+540,Jagung pipil var. harapan kering,Makanan dan Minuman
+541,Jagung pipil var. metro kering,Makanan dan Minuman
+542,Jagung Putih giling,Makanan dan Minuman
+543,Jagung Putih muda,Makanan dan Minuman
+544,Jagung Putih pipil baru,Makanan dan Minuman
+545,Jagung Putih pipil lama,Makanan dan Minuman
+546,Jagung Putih segar,Makanan dan Minuman
+547,Jagung Rebus ,Makanan dan Minuman
+548,Jagung Sayur (tumis) ,Makanan dan Minuman
+549,Jagung titi,Makanan dan Minuman
+550,Jahe,Makanan dan Minuman
+551,Jali,Makanan dan Minuman
+552,Jam selai,Makanan dan Minuman
+553,Jambal goreng,Makanan dan Minuman
+554,Jambu Air,Makanan dan Minuman
+555,Jambu Biji,Makanan dan Minuman
+556,Jambu biji putih tidak berbiji,Makanan dan Minuman
+557,Jambu Bol,Makanan dan Minuman
+558,Jambu Monyet buah,Makanan dan Minuman
+559,Jampang huma mentah,Makanan dan Minuman
+560,Jamur Coklat (kulat siau),Makanan dan Minuman
+561,Jamur encik,Makanan dan Minuman
+562,Jamur kuping kering,Makanan dan Minuman
+563,Jamur kuping segar,Makanan dan Minuman
+564,Jamur merang segar,Makanan dan Minuman
+565,Jamur Putih (kulat putih),Makanan dan Minuman
+566,Jamur sagu,Makanan dan Minuman
+567,Jamur tiram segar,Makanan dan Minuman
+568,Jangang bintatoeng masakan,Makanan dan Minuman
+569,Jantung Pisang segar,Makanan dan Minuman
+570,Japilus,Makanan dan Minuman
+571,Jaruk Tigarun,Makanan dan Minuman
+572,Jawawut,Makanan dan Minuman
+573,Jenang ,Makanan dan Minuman
+574,Jengkol segar,Makanan dan Minuman
+575,Jeruk Bali,Makanan dan Minuman
+576,Jeruk banjar segar,Makanan dan Minuman
+577,Jeruk Garut,Makanan dan Minuman
+578,Jeruk Kalamansi segar,Makanan dan Minuman
+579,Jeruk Manis,Makanan dan Minuman
+580,Jeruk Nipis,Makanan dan Minuman
+581,Jeruk ragi segar,Makanan dan Minuman
+582,Jotang,Makanan dan Minuman
+583,Jukku pallu kaloa masakan,Makanan dan Minuman
+584,Kabau segar,Makanan dan Minuman
+585,Kaburan ubi segar,Makanan dan Minuman
+586,Kabuto,Makanan dan Minuman
+587,Kacang Andong,Makanan dan Minuman
+588,Kacang Arab,Makanan dan Minuman
+589,Kacang atom,Makanan dan Minuman
+590,Kacang babi kering,Makanan dan Minuman
+591,Kacang belimbing (kecipir) kering,Makanan dan Minuman
+592,Kacang Belimbing rebus,Makanan dan Minuman
+593,Kacang Belimbing tempe,Makanan dan Minuman
+594,Kacang beracun segar,Makanan dan Minuman
+595,Kacang Bogor goreng,Makanan dan Minuman
+596,Kacang bogor kering,Makanan dan Minuman
+597,Kacang Bogor rebus,Makanan dan Minuman
+598,Kacang bogor segar,Makanan dan Minuman
+599,Kacang Endel biji,Makanan dan Minuman
+600,Kacang ercis segar,Makanan dan Minuman
+601,kacang galing segar,Makanan dan Minuman
+602,Kacang goyang,Makanan dan Minuman
+603,Kacang Gude biji,Makanan dan Minuman
+604,Kacang gude biji kering,Makanan dan Minuman
+605,Kacang Gude biji muda,Makanan dan Minuman
+606,Kacang Gude muda,Makanan dan Minuman
+607,Kacang gude rebus,Makanan dan Minuman
+608,Kacang hijau kering,Makanan dan Minuman
+609,kacang hijau rebus,Makanan dan Minuman
+610,Kacang hijau var. bakti kering,Makanan dan Minuman
+611,Kacang hijau var. siwalik kering,Makanan dan Minuman
+612,Kacang hitam kering,Makanan dan Minuman
+613,Kacang Ijo,Makanan dan Minuman
+614,Kacang Kapri Goreng ,Makanan dan Minuman
+615,Kacang Kapri muda,Makanan dan Minuman
+616,Kacang Kedelai basah,Makanan dan Minuman
+617,Kacang kedelai goreng,Makanan dan Minuman
+618,Kacang kedelai kering,Makanan dan Minuman
+619,Kacang Kedelai kukus,Makanan dan Minuman
+620,Kacang kedelai rebus,Makanan dan Minuman
+621,Kacang kedelai segar,Makanan dan Minuman
+622,Kacang komak segar,Makanan dan Minuman
+623,Kacang kuning kering,Makanan dan Minuman
+624,Kacang lebui /iris kering,Makanan dan Minuman
+625,Kacang mekah polong segar,Makanan dan Minuman
+626,Kacang mentega kering,Makanan dan Minuman
+627,Kacang Merah,Makanan dan Minuman
+628,Kacang merah /banda kering,Makanan dan Minuman
+629,Kacang merah kering,Makanan dan Minuman
+630,Kacang Merah kering rebus,Makanan dan Minuman
+631,Kacang merah segar,Makanan dan Minuman
+632,Kacang Merah segar rebus,Makanan dan Minuman
+633,Kacang merah tua kering,Makanan dan Minuman
+634,Kacang mete/biji jambu monyet goreng,Makanan dan Minuman
+635,Kacang mete/biji jambu monyet segar,Makanan dan Minuman
+636,Kacang negara,Makanan dan Minuman
+637,Kacang Panjang,Makanan dan Minuman
+638,Kacang Panjang biji,Makanan dan Minuman
+639,Kacang Panjang kukus,Makanan dan Minuman
+640,Kacang Panjang tumis,Makanan dan Minuman
+641,Kacang ranti polong,Makanan dan Minuman
+642,Kacang sukro,Makanan dan Minuman
+643,Kacang Sukro Putih ,Makanan dan Minuman
+644,Kacang Tanah atom,Makanan dan Minuman
+645,Kacang tanah goreng,Makanan dan Minuman
+646,Kacang Tanah kacang sari,Makanan dan Minuman
+647,Kacang tanah kering,Makanan dan Minuman
+648,Kacang Tanah Rebus ,Makanan dan Minuman
+649,Kacang Tanah rebus berkulit,Makanan dan Minuman
+650,Kacang Tanah rempeyek,Makanan dan Minuman
+651,Kacang Tanah sangan berselaput,Makanan dan Minuman
+652,Kacang tanah sangan tanpa selaput,Makanan dan Minuman
+653,Kacang tanah sari,Makanan dan Minuman
+654,Kacang Telur ,Makanan dan Minuman
+655,Kacang tolo / tunggak kering,Makanan dan Minuman
+656,Kacang tolo rebus,Makanan dan Minuman
+657,Kacang Tunggak (tolo),Makanan dan Minuman
+658,Kacang Tunggak rebus,Makanan dan Minuman
+659,Kacang Tunggak rempeyek,Makanan dan Minuman
+660,Kacang tunis kering,Makanan dan Minuman
+661,Kacang uci kering,Makanan dan Minuman
+662,Kacang urei kering,Makanan dan Minuman
+663,Kadada katembe,Makanan dan Minuman
+664,Kaholeo masakan,Makanan dan Minuman
+665,Kakap,Makanan dan Minuman
+666,Kalakai,Makanan dan Minuman
+667,Kalio jeroan masakan,Makanan dan Minuman
+668,Kalio kikil (tunjang) masakan,Makanan dan Minuman
+669,Kalio otak masakan,Makanan dan Minuman
+670,Kalio telur masakan,Makanan dan Minuman
+671,Kambing daging segar,Makanan dan Minuman
+672,Kambose,Makanan dan Minuman
+673,Kangkung,Makanan dan Minuman
+674,Kangkung kukus,Makanan dan Minuman
+675,Kangkung rebus,Makanan dan Minuman
+676,Kangkung tondano,Makanan dan Minuman
+677,Kangkung tumis,Makanan dan Minuman
+678,Kaparende sayur,Makanan dan Minuman
+679,Kapri Muda,Makanan dan Minuman
+680,Kapurung,Makanan dan Minuman
+681,Kapusa,Makanan dan Minuman
+682,Karawila,Makanan dan Minuman
+683,Karedok ,Makanan dan Minuman
+684,Karedok sayur,Makanan dan Minuman
+685,Karoket ,Makanan dan Minuman
+686,Katak,Makanan dan Minuman
+687,Katul Beras,Makanan dan Minuman
+688,Katul Jagung,Makanan dan Minuman
+689,Kawista segar,Makanan dan Minuman
+690,Kecap,Makanan dan Minuman
+691,Kecimpring singkong goreng,Makanan dan Minuman
+692,Kecipir biji,Makanan dan Minuman
+693,Kecipir buah muda,Makanan dan Minuman
+694,Kecipir muda segar,Makanan dan Minuman
+695,Kecombrang segar,Makanan dan Minuman
+696,Kedondong segar ,Makanan dan Minuman
+697,Keju,Makanan dan Minuman
+698,Keju Kacang Tanah,Makanan dan Minuman
+699,Kelapa hutan kering,Makanan dan Minuman
+700,Kelapa Muda air,Makanan dan Minuman
+701,Kelapa Muda daging,Makanan dan Minuman
+702,Kelapa Setengah Tua daging,Makanan dan Minuman
+703,Kelapa Tua daging,Makanan dan Minuman
+704,Kelepon ,Makanan dan Minuman
+705,Kelewih,Makanan dan Minuman
+706,Kelinci daging segar,Makanan dan Minuman
+707,Kemang,Makanan dan Minuman
+708,Kembang tahu,Makanan dan Minuman
+709,Kembang Turi,Makanan dan Minuman
+710,Kemiri,Makanan dan Minuman
+711,Kenari,Makanan dan Minuman
+712,Kenari banda kering,Makanan dan Minuman
+713,Kentang,Makanan dan Minuman
+714,Kentang Hitam,Makanan dan Minuman
+715,Keong,Makanan dan Minuman
+716,Kepala Susu (Krim),Makanan dan Minuman
+717,Kepiting,Makanan dan Minuman
+718,Kerang,Makanan dan Minuman
+719,Kerang asap mentah,Makanan dan Minuman
+720,Kerang dendeng mentah,Makanan dan Minuman
+721,Kerbau daging segar,Makanan dan Minuman
+722,Keremes,Makanan dan Minuman
+723,Keribang ubi segar,Makanan dan Minuman
+724,Keripik bayam,Makanan dan Minuman
+725,Keripik gadung,Makanan dan Minuman
+726,Keripik kentang,Makanan dan Minuman
+727,Keripik lampung,Makanan dan Minuman
+728,Keripik oncom,Makanan dan Minuman
+729,Keripik singkong,Makanan dan Minuman
+730,Keripik singkong berbumbu,Makanan dan Minuman
+731,Keripik tempe,Makanan dan Minuman
+732,Keripik tempe abadi murni,Makanan dan Minuman
+733,Keripik tempe abadi sedang,Makanan dan Minuman
+734,Keripik tempe abadi telur,Makanan dan Minuman
+735,Keripik ubi,Makanan dan Minuman
+736,Kerokot segar,Makanan dan Minuman
+737,Kerupuk Aci,Makanan dan Minuman
+738,Kerupuk cumi goreng,Makanan dan Minuman
+739,Kerupuk Ikan berpati,Makanan dan Minuman
+740,Kerupuk kemplang  (ikan) mentah,Makanan dan Minuman
+741,Kerupuk kemplang goreng,Makanan dan Minuman
+742,Kerupuk kemplang panggang,Makanan dan Minuman
+743,Kerupuk Kulit kerbau,Makanan dan Minuman
+744,Kerupuk Melinjo mentah,Makanan dan Minuman
+745,Kerupuk Melinjo tebal goreng asin,Makanan dan Minuman
+746,Kerupuk Melinjo tebal goreng manis,Makanan dan Minuman
+747,Kerupuk Melinjo tipis goreng,Makanan dan Minuman
+748,Kerupuk mie kuning goreng,Makanan dan Minuman
+749,Kerupuk Sayong ,Makanan dan Minuman
+750,Kerupuk Udang ,Makanan dan Minuman
+751,Kerupuk Udang berpati,Makanan dan Minuman
+752,Kerupuk udang goreng,Makanan dan Minuman
+753,Kerupuk urat,Makanan dan Minuman
+754,Kesemek,Makanan dan Minuman
+755,Ketan hitam matang,Makanan dan Minuman
+756,Ketan putih matang,Makanan dan Minuman
+757,Ketapang ,Makanan dan Minuman
+758,Ketela Pohon Kuning,Makanan dan Minuman
+759,Ketela singkong segar,Makanan dan Minuman
+760,Ketela pohon/singkong kukus,Makanan dan Minuman
+761,Ketimun,Makanan dan Minuman
+762,Ketimun madura segar,Makanan dan Minuman
+763,Ketoprak,Makanan dan Minuman
+764,Ketumbar,Makanan dan Minuman
+765,Ketupat ketan,Makanan dan Minuman
+766,Ketupat Tahu ,Makanan dan Minuman
+767,Kluwek,Makanan dan Minuman
+768,Kodok segar,Makanan dan Minuman
+769,Kokosan,Makanan dan Minuman
+770,Komak polong segar,Makanan dan Minuman
+771,Kool Kembang,Makanan dan Minuman
+772,Kool Merah kool putih,Makanan dan Minuman
+773,Kopi bagian yang larut,Makanan dan Minuman
+774,Kopi bubuk instant,Makanan dan Minuman
+775,Koro andong kering,Makanan dan Minuman
+776,Koro Benguk biji,Makanan dan Minuman
+777,Koro Benguk tempe,Makanan dan Minuman
+778,Koro Kerupuk biji,Makanan dan Minuman
+779,Koro Loke biji,Makanan dan Minuman
+780,Koro Roway biji,Makanan dan Minuman
+781,Koro Wedus biji,Makanan dan Minuman
+782,Koro Wedus buah muda,Makanan dan Minuman
+783,Koro wedus polong,Makanan dan Minuman
+784,Kotiu hinela tawang nggole,Makanan dan Minuman
+785,Koya,Makanan dan Minuman
+786,Koya mirasa,Makanan dan Minuman
+787,Kranji segar,Makanan dan Minuman
+788,Kripik Tempe Goreng ,Makanan dan Minuman
+789,Krokot,Makanan dan Minuman
+790,Kucai,Makanan dan Minuman
+791,Kucai Muda (Lokio),Makanan dan Minuman
+792,Kuda daging segar,Makanan dan Minuman
+793,Kue ali,Makanan dan Minuman
+794,Kue Apem ,Makanan dan Minuman
+795,Kue bangket,Makanan dan Minuman
+796,Kue Bugis ,Makanan dan Minuman
+797,Kue jahe,Makanan dan Minuman
+798,Kue kelapa,Makanan dan Minuman
+799,Kue Koya ,Makanan dan Minuman
+800,Kue lumpur,Makanan dan Minuman
+801,Kue mangkok ,Makanan dan Minuman
+802,Kue Pacar Cina ,Makanan dan Minuman
+803,Kue Pia ,Makanan dan Minuman
+804,Kue putu cangkir,Makanan dan Minuman
+805,Kue putu singkong,Makanan dan Minuman
+806,Kue Satu ,Makanan dan Minuman
+807,Kue Semprong ,Makanan dan Minuman
+808,Kue sus,Makanan dan Minuman
+809,Kue Talam ,Makanan dan Minuman
+810,Kue Tambang ,Makanan dan Minuman
+811,Kue thipan,Makanan dan Minuman
+812,Kulit melinjo,Makanan dan Minuman
+813,Kundur segar,Makanan dan Minuman
+814,Kunyit,Makanan dan Minuman
+815,Kura-kura,Makanan dan Minuman
+816,Kwaci,Makanan dan Minuman
+817,Kwark (Quark),Makanan dan Minuman
+818,Labu Air,Makanan dan Minuman
+819,Labu kuning segar,Makanan dan Minuman
+820,Labu Siam,Makanan dan Minuman
+821,Labu waluh segar,Makanan dan Minuman
+822,Laksa ,Makanan dan Minuman
+823,Lamtoro (pete cina) biji muda,Makanan dan Minuman
+824,Lamtoro biji tua,Makanan dan Minuman
+825,Lamtoro tempe,Makanan dan Minuman
+826,Lamtoro var. gung tanpa kulit,Makanan dan Minuman
+827,Lamtoro var. lokal dengan kulit,Makanan dan Minuman
+828,Langsat,Makanan dan Minuman
+829,Lantar segar,Makanan dan Minuman
+830,Lanting getuk,Makanan dan Minuman
+831,Lapis legit,Makanan dan Minuman
+832,Lawar babi masakan,Makanan dan Minuman
+833,Lawar penyu masakan,Makanan dan Minuman
+834,Lawara jangang masakan,Makanan dan Minuman
+835,Lawara penjah masakan,Makanan dan Minuman
+836,Ledre pisang,Makanan dan Minuman
+837,Lema/ Rebung asam,Makanan dan Minuman
+838,Lemak Babi,Makanan dan Minuman
+839,Lemak Babi (Bacon),Makanan dan Minuman
+840,Lemak ikan,Makanan dan Minuman
+841,Lemak Kerbau,Makanan dan Minuman
+842,Lemon segar,Makanan dan Minuman
+843,Lemon Squasih,Makanan dan Minuman
+844,Lemonade,Makanan dan Minuman
+845,Lemper ,Makanan dan Minuman
+846,Lempog durian,Makanan dan Minuman
+847,Lepok/Ubi rumput,Makanan dan Minuman
+848,Leunca buah,Makanan dan Minuman
+849,Leupeut Ketan ,Makanan dan Minuman
+850,Leverwost (sosis hati),Makanan dan Minuman
+851,Lilin bungkus gedi,Makanan dan Minuman
+852,Lobak,Makanan dan Minuman
+853,Lokan segar,Makanan dan Minuman
+854,Lontar segar,Makanan dan Minuman
+855,Lopis ,Makanan dan Minuman
+856,Lumai/Leunca segar,Makanan dan Minuman
+857,Lupis ketan,Makanan dan Minuman
+858,Madu,Makanan dan Minuman
+859,Maizena tepung,Makanan dan Minuman
+860,Makaroni,Makanan dan Minuman
+861,Mangga benggala segar,Makanan dan Minuman
+862,Mangga Gedong,Makanan dan Minuman
+863,Mangga Golek,Makanan dan Minuman
+864,Mangga Harum Manis,Makanan dan Minuman
+865,Mangga Indramayu,Makanan dan Minuman
+866,Mangga Kopek,Makanan dan Minuman
+867,Mangga kwini segar,Makanan dan Minuman
+868,Mangga manalagi segar,Makanan dan Minuman
+869,Mangga Muda,Makanan dan Minuman
+870,Mangga segar,Makanan dan Minuman
+871,Manggis,Makanan dan Minuman
+872,Margarin,Makanan dan Minuman
+873,Markisa segar,Makanan dan Minuman
+874,Markisa squash,Makanan dan Minuman
+875,Markisa squash BD,Makanan dan Minuman
+876,Martabak  manis,Makanan dan Minuman
+877,Martabak india,Makanan dan Minuman
+878,Martabak mesir,Makanan dan Minuman
+879,Martabak Telur ,Makanan dan Minuman
+880,Masekat,Makanan dan Minuman
+881,Matoa segar,Makanan dan Minuman
+882,Melase,Makanan dan Minuman
+883,Melinjo,Makanan dan Minuman
+884,Melon segar,Makanan dan Minuman
+885,Menjangan daging dendeng mentah,Makanan dan Minuman
+886,Mentega,Makanan dan Minuman
+887,Menteng,Makanan dan Minuman
+888,Merica,Makanan dan Minuman
+889,Mi basah,Makanan dan Minuman
+890,Mi golosor,Makanan dan Minuman
+891,Mi kering,Makanan dan Minuman
+892,Mie aceh rebus,Makanan dan Minuman
+893,Mie ayam,Makanan dan Minuman
+894,Mie bakso,Makanan dan Minuman
+895,Mie basah,Makanan dan Minuman
+896,Mie Bendo,Makanan dan Minuman
+897,Mie celon,Makanan dan Minuman
+898,Mie Goreng ,Makanan dan Minuman
+899,Mie kering,Makanan dan Minuman
+900,Mie pangsit basah,Makanan dan Minuman
+901,Mie Sagu,Makanan dan Minuman
+902,Minyak Hati Hiu (Eulamia),Makanan dan Minuman
+903,Minyak Ikan,Makanan dan Minuman
+904,Minyak Kacang Tanah,Makanan dan Minuman
+905,Minyak kedelai,Makanan dan Minuman
+906,Minyak Kelapa,Makanan dan Minuman
+907,Minyak Kelapa Sawit,Makanan dan Minuman
+908,Minyak Wijen,Makanan dan Minuman
+909,Minyak Zaitun,Makanan dan Minuman
+910,Misoa,Makanan dan Minuman
+911,Misro ,Makanan dan Minuman
+912,Moon tahu,Makanan dan Minuman
+913,Mostarda metan -sawi,Makanan dan Minuman
+914,Mujahir acar kuning masakan,Makanan dan Minuman
+915,Naan maran sapi masakan,Makanan dan Minuman
+916,Nanas,Makanan dan Minuman
+917,Nanas palembang segar,Makanan dan Minuman
+918,Nangka biji,Makanan dan Minuman
+919,Nangka masak di pohon,Makanan dan Minuman
+920,Nangka Muda,Makanan dan Minuman
+921,Nasi,Makanan dan Minuman
+922,Nasi beras merah,Makanan dan Minuman
+923,Nasi gemuk,Makanan dan Minuman
+924,Nasi Goreng ,Makanan dan Minuman
+925,Nasi gurih,Makanan dan Minuman
+926,Nasi jagung,Makanan dan Minuman
+927,Nasi minyak,Makanan dan Minuman
+928,Nasi rames,Makanan dan Minuman
+929,Nasi tim,Makanan dan Minuman
+930,Nasi Uduk ,Makanan dan Minuman
+931,Nasu likku masakan,Makanan dan Minuman
+932,Noga Kacang Tanah ,Makanan dan Minuman
+933,Nopia spesial,Makanan dan Minuman
+934,Olah-olah,Makanan dan Minuman
+935,Oncom,Makanan dan Minuman
+936,Oncom ampas kacang hijau,Makanan dan Minuman
+937,Oncom Goreng ,Makanan dan Minuman
+938,Oncom Hitam Goreng ,Makanan dan Minuman
+939,Oncom Hitam Goreng bertepung ,Makanan dan Minuman
+940,Oncom kacang hijau + singkong,Makanan dan Minuman
+941,Oncom Kacang Tanah pepes,Makanan dan Minuman
+942,Oncom Kedele,Makanan dan Minuman
+943,Oncom Merah Goreng ,Makanan dan Minuman
+944,Oncom Merah Goreng bertepung ,Makanan dan Minuman
+945,Oncom Merah Sayur (tumis) ,Makanan dan Minuman
+946,Oncom pepes,Makanan dan Minuman
+947,Onde-onde ,Makanan dan Minuman
+948,Ongol-ongol ,Makanan dan Minuman
+949,Ongol-ongol sagu,Makanan dan Minuman
+950,Opak Singkong ,Makanan dan Minuman
+951,Oramu ninahu ndawa olaho masakan,Makanan dan Minuman
+952,Otak,Makanan dan Minuman
+953,Oyek,Makanan dan Minuman
+954,Oyek (dari singkong),Makanan dan Minuman
+955,Paku hinela wulelenggapaya,Makanan dan Minuman
+956,Pala biji,Makanan dan Minuman
+957,Pala daging,Makanan dan Minuman
+958,Paniki masak santan masakan,Makanan dan Minuman
+959,Papais ,Makanan dan Minuman
+960,Papeda,Makanan dan Minuman
+961,Parede baleh masakan,Makanan dan Minuman
+962,Paria (Pare),Makanan dan Minuman
+963,Paria Putih kukus,Makanan dan Minuman
+964,Paria putih segar,Makanan dan Minuman
+965,Pastel,Makanan dan Minuman
+966,Pati Singkong (tapioka),Makanan dan Minuman
+967,Pe-Cay,Makanan dan Minuman
+968,Peda Ikan Banjar,Makanan dan Minuman
+969,Pelecing kangkung,Makanan dan Minuman
+970,Pelepah manuk masakan,Makanan dan Minuman
+971,Pempek adaan,Makanan dan Minuman
+972,Pempek belida,Makanan dan Minuman
+973,Pempek kapal selam,Makanan dan Minuman
+974,Pempek kelesan,Makanan dan Minuman
+975,Pempek kulit,Makanan dan Minuman
+976,Pempek tenggiri,Makanan dan Minuman
+977,Pencok lele masakan,Makanan dan Minuman
+978,Penyu serapah masakan,Makanan dan Minuman
+979,Pepare ular segar,Makanan dan Minuman
+980,Pepaya lodeh,Makanan dan Minuman
+981,Pepaya Muda,Makanan dan Minuman
+982,Pepaya segar,Makanan dan Minuman
+983,Pepea oncom ampas tahu,Makanan dan Minuman
+984,Permen ,Makanan dan Minuman
+985,Pete Segar,Makanan dan Minuman
+986,Peterseli,Makanan dan Minuman
+987,Petis Ikan,Makanan dan Minuman
+988,Petis Udang,Makanan dan Minuman
+989,Petis udang kering,Makanan dan Minuman
+990,Petis udang pasta,Makanan dan Minuman
+991,Pilus ,Makanan dan Minuman
+992,Pinda masakan,Makanan dan Minuman
+993,Pindang Ikan Banjar,Makanan dan Minuman
+994,Pindang Ikan Benggol,Makanan dan Minuman
+995,Pindang Ikan Layang,Makanan dan Minuman
+996,Pindang Ikan Selar Kecil,Makanan dan Minuman
+997,Pindang kenari masakan,Makanan dan Minuman
+998,Pisang Ambon,Makanan dan Minuman
+999,Pisang angleng (pisang ampyang) segar,Makanan dan Minuman
+1000,Pisang ayam segar,Makanan dan Minuman
+1001,Pisang gapi segar ,Makanan dan Minuman
+1002,Pisang Goreng ,Makanan dan Minuman
+1003,Pisang goroho segar,Makanan dan Minuman
+1004,Pisang hijau segar,Makanan dan Minuman
+1005,Pisang kayu segar,Makanan dan Minuman
+1006,Pisang kepok segar,Makanan dan Minuman
+1007,Pisang ketip segar,Makanan dan Minuman
+1008,Pisang kidang segar,Makanan dan Minuman
+1009,Pisang Lampung,Makanan dan Minuman
+1010,Pisang Mas,Makanan dan Minuman
+1011,Pisang mas bali,Makanan dan Minuman
+1012,Pisang Oli,Makanan dan Minuman
+1013,Pisang Raja,Makanan dan Minuman
+1014,Pisang Raja Sere (Susu),Makanan dan Minuman
+1015,Pisang rotan segar,Makanan dan Minuman
+1016,Pisang Siam goreng,Makanan dan Minuman
+1017,Pisang talas segar,Makanan dan Minuman
+1018,Prey (bawang daun),Makanan dan Minuman
+1019,Pucuk lumai/daun leunca segar,Makanan dan Minuman
+1020,Pulut,Makanan dan Minuman
+1021,Punai daging goreng,Makanan dan Minuman
+1022,Pundut nasi,Makanan dan Minuman
+1023,Purundawa,Makanan dan Minuman
+1024,Purut segar,Makanan dan Minuman
+1025,Putri malu segar,Makanan dan Minuman
+1026,Putri selat,Makanan dan Minuman
+1027,Putu Mayang ,Makanan dan Minuman
+1028,Ragi,Makanan dan Minuman
+1029,Rajungan segar,Makanan dan Minuman
+1030,Rambutan,Makanan dan Minuman
+1031,Rambutan Aceh,Makanan dan Minuman
+1032,Rambutan binjai segar,Makanan dan Minuman
+1033,Rambutan sinyonya,Makanan dan Minuman
+1034,Rarawuan ,Makanan dan Minuman
+1035,Rasbi (Beras Ubi),Makanan dan Minuman
+1036,Rasi (Beras Singkong),Makanan dan Minuman
+1037,Rawon masakan,Makanan dan Minuman
+1038,Rebon (udang kecil segar),Makanan dan Minuman
+1039,Rebon kering,Makanan dan Minuman
+1040,Rebon udang kecil segar,Makanan dan Minuman
+1041,Rebung,Makanan dan Minuman
+1042,Rebung laut mentah,Makanan dan Minuman
+1043,Rempeyek kacang tolo,Makanan dan Minuman
+1044,Rempeyek kacang uci,Makanan dan Minuman
+1045,Rendang sapi masakan,Makanan dan Minuman
+1046,Renggi goreng,Makanan dan Minuman
+1047,Rimbang segar,Makanan dan Minuman
+1048,Risoles ,Makanan dan Minuman
+1049,Roti boong,Makanan dan Minuman
+1050,Roti Gambang ,Makanan dan Minuman
+1051,Roti Putih,Makanan dan Minuman
+1052,Roti warna sawo matang,Makanan dan Minuman
+1053,Rujak cingur,Makanan dan Minuman
+1054,Rumput laut,Makanan dan Minuman
+1055,Rusa daging dendeng mentah,Makanan dan Minuman
+1056,Rusip,Makanan dan Minuman
+1057,RW anjing masakan,Makanan dan Minuman
+1058,Saga biji tanpa kulit,Makanan dan Minuman
+1059,Sagu Ambon ,Makanan dan Minuman
+1060,Sagu aren kering,Makanan dan Minuman
+1061,Sagu aren segar,Makanan dan Minuman
+1062,Sagu forno,Makanan dan Minuman
+1063,Sagu kasbi segar,Makanan dan Minuman
+1064,Sagu Lemak (Kue Sagon),Makanan dan Minuman
+1065,Sagu lempeng,Makanan dan Minuman
+1066,Sagu Rendang,Makanan dan Minuman
+1067,Sagu singkong kering,Makanan dan Minuman
+1068,Sagu sinole,Makanan dan Minuman
+1069,Salak bali segar,Makanan dan Minuman
+1070,Salak medan segar,Makanan dan Minuman
+1071,Salak pondoh segar,Makanan dan Minuman
+1072,Sale pisang siam,Makanan dan Minuman
+1073,Santan (dengan air),Makanan dan Minuman
+1074,Santan (kelapa saja),Makanan dan Minuman
+1075,Santan murni,Makanan dan Minuman
+1076,Saos Tomat,Makanan dan Minuman
+1077,Sapi abon,Makanan dan Minuman
+1078,Sapi babat segar,Makanan dan Minuman
+1079,Sapi daging asap,Makanan dan Minuman
+1080,Sapi daging dendeng mentah,Makanan dan Minuman
+1081,Sapi daging gemuk segar,Makanan dan Minuman
+1082,Sapi daging kornet,Makanan dan Minuman
+1083,Sapi daging kurus segar,Makanan dan Minuman
+1084,Sapi daging lemak sedang segar,Makanan dan Minuman
+1085,Sapi daging sosis (Worst),Makanan dan Minuman
+1086,Sapi daleman segar,Makanan dan Minuman
+1087,Sapi dideh/darah,Makanan dan Minuman
+1088,Sapi ginjal segar,Makanan dan Minuman
+1089,Sapi hati sosis (liverworst),Makanan dan Minuman
+1090,Sapi keleponan segar,Makanan dan Minuman
+1091,Sapi liver segar,Makanan dan Minuman
+1092,Sapi otak segar,Makanan dan Minuman
+1093,Sapi paru dendeng mentah,Makanan dan Minuman
+1094,Sapi paru goreng,Makanan dan Minuman
+1095,Sapi usus segar,Makanan dan Minuman
+1096,Sarang Burung,Makanan dan Minuman
+1097,Sardines dalam kaleng,Makanan dan Minuman
+1098,Sari Kedelai bubuk,Makanan dan Minuman
+1099,Sarimuka,Makanan dan Minuman
+1100,Sate Bandeng,Makanan dan Minuman
+1101,Sate Kulit ,Makanan dan Minuman
+1102,Sate penyu masakan,Makanan dan Minuman
+1103,Sate pusut masakan,Makanan dan Minuman
+1104,Sate Usus ,Makanan dan Minuman
+1105,Sawi,Makanan dan Minuman
+1106,Sawi putih / pecai segar,Makanan dan Minuman
+1107,Sawi taiwan segar,Makanan dan Minuman
+1108,Sawi tanah segar,Makanan dan Minuman
+1109,Sawo,Makanan dan Minuman
+1110,Sawo duren segar,Makanan dan Minuman
+1111,Sawo kecik segar,Makanan dan Minuman
+1112,Sawo Manila segar,Makanan dan Minuman
+1113,Sayur asem,Makanan dan Minuman
+1114,Sayur bunga pepaya,Makanan dan Minuman
+1115,Sayur garu,Makanan dan Minuman
+1116,Sayur kohu-kohu,Makanan dan Minuman
+1117,Sayur lebui,Makanan dan Minuman
+1118,Sayur lilin-terubuk,Makanan dan Minuman
+1119,Sayur ndusuk,Makanan dan Minuman
+1120,Sayur sop,Makanan dan Minuman
+1121,Sayur umbut kelapa,Makanan dan Minuman
+1122,Sayur umbut rotan,Makanan dan Minuman
+1123,Selada,Makanan dan Minuman
+1124,Selada Air,Makanan dan Minuman
+1125,Selada Air rebus,Makanan dan Minuman
+1126,Seledri,Makanan dan Minuman
+1127,Semangka,Makanan dan Minuman
+1128,Semur Jengkol ,Makanan dan Minuman
+1129,Sente,Makanan dan Minuman
+1130,Sente talas segar,Makanan dan Minuman
+1131,Sepi masakan,Makanan dan Minuman
+1132,Serbuk Coklat,Makanan dan Minuman
+1133,Serimping talas kebumen,Makanan dan Minuman
+1134,Setrup sirup,Makanan dan Minuman
+1135,Shabu-shabu,Makanan dan Minuman
+1136,Sie reuboh masakan,Makanan dan Minuman
+1137,Singkah (rotan muda),Makanan dan Minuman
+1138,Singkong Goreng ,Makanan dan Minuman
+1139,Singkong kukus,Makanan dan Minuman
+1140,Singkong tape,Makanan dan Minuman
+1141,Siomay ,Makanan dan Minuman
+1142,Sirsak,Makanan dan Minuman
+1143,Sirup,Makanan dan Minuman
+1144,Sop buntut masakan,Makanan dan Minuman
+1145,Sop daging sapi masakan,Makanan dan Minuman
+1146,Sop kaki sapi masakan,Makanan dan Minuman
+1147,Sop kambing masakan,Makanan dan Minuman
+1148,Sop konro masakan,Makanan dan Minuman
+1149,Sop Kool,Makanan dan Minuman
+1150,Sop Kool dan Wortel,Makanan dan Minuman
+1151,Sop saudara masakan,Makanan dan Minuman
+1152,Soto bandung masakan,Makanan dan Minuman
+1153,Soto banjar masakan,Makanan dan Minuman
+1154,Soto betawi masakan,Makanan dan Minuman
+1155,Soto dengan Daging,Makanan dan Minuman
+1156,Soto jeroan masakan,Makanan dan Minuman
+1157,Soto kudus masakan,Makanan dan Minuman
+1158,Soto madura masakan,Makanan dan Minuman
+1159,Soto padang masakan,Makanan dan Minuman
+1160,Soto pekalongan masakan,Makanan dan Minuman
+1161,Soto pemalang masakan,Makanan dan Minuman
+1162,Soto sukaraja masakan,Makanan dan Minuman
+1163,Soto sulung masakan,Makanan dan Minuman
+1164,Soto tanpa Daging ,Makanan dan Minuman
+1165,Spaghetti,Makanan dan Minuman
+1166,Srikaya,Makanan dan Minuman
+1167,Sukiyaki masakan,Makanan dan Minuman
+1168,Sukun muda segar,Makanan dan Minuman
+1169,Sukun tua segar,Makanan dan Minuman
+1170,Susu asam untuk bayi bubuk,Makanan dan Minuman
+1171,Susu bubuk,Makanan dan Minuman
+1172,Susu Kambing,Makanan dan Minuman
+1173,Susu Kedelai,Makanan dan Minuman
+1174,Susu Kental Manis,Makanan dan Minuman
+1175,Susu Kental Tak Manis,Makanan dan Minuman
+1176,Susu Kerbau,Makanan dan Minuman
+1177,Susu Sapi,Makanan dan Minuman
+1178,Susu Skim (tak berlemak),Makanan dan Minuman
+1179,Susu skim bubuk,Makanan dan Minuman
+1180,Susu skim segar,Makanan dan Minuman
+1181,Susupan,Makanan dan Minuman
+1182,Suweg kukus,Makanan dan Minuman
+1183,Suweg mentah,Makanan dan Minuman
+1184,Suweg talas segar,Makanan dan Minuman
+1185,Suwir-suwir,Makanan dan Minuman
+1186,Tahu,Makanan dan Minuman
+1187,Tahu goreng,Makanan dan Minuman
+1188,Tahu telur,Makanan dan Minuman
+1189,Takwa,Makanan dan Minuman
+1190,Talas bogor kukus,Makanan dan Minuman
+1191,Talas pontianak segar,Makanan dan Minuman
+1192,Talas viqueque segar,Makanan dan Minuman
+1193,Tales kukus,Makanan dan Minuman
+1194,Tales mentah,Makanan dan Minuman
+1195,Taoco,Makanan dan Minuman
+1196,Taoge goreng,Makanan dan Minuman
+1197,Taoge kacang kedelai segar,Makanan dan Minuman
+1198,Taoge seduh,Makanan dan Minuman
+1199,Taoge segar,Makanan dan Minuman
+1200,Taokoa,Makanan dan Minuman
+1201,Tapai beras,Makanan dan Minuman
+1202,Tapai ketan hitam,Makanan dan Minuman
+1203,Tapai ketan putih,Makanan dan Minuman
+1204,Tapai singkong,Makanan dan Minuman
+1205,Tauco cap DAS cake,Makanan dan Minuman
+1206,Tauji cap singa,Makanan dan Minuman
+1207,Tebu Terubuk,Makanan dan Minuman
+1208,Tedong pallu basa masakan,Makanan dan Minuman
+1209,Teh,Makanan dan Minuman
+1210,Teh hijau daun kering,Makanan dan Minuman
+1211,Teh melati daun kering,Makanan dan Minuman
+1212,Tekokak,Makanan dan Minuman
+1213,Tekokak kering,Makanan dan Minuman
+1214,Tekwan,Makanan dan Minuman
+1215,Telur Ayam,Makanan dan Minuman
+1216,Telur Ayam bagian kuning,Makanan dan Minuman
+1217,Telur Ayam bagian putih,Makanan dan Minuman
+1218,Telur Ayam ceplok,Makanan dan Minuman
+1219,Telur Ayam dadar,Makanan dan Minuman
+1220,Telur ayam kampung ,Makanan dan Minuman
+1221,Telur bebek bagian kuning segar,Makanan dan Minuman
+1222,Telur Bebek bagian putih,Makanan dan Minuman
+1223,Telur bebek bagian putih segar,Makanan dan Minuman
+1224,Telur Bebek ceplok,Makanan dan Minuman
+1225,Telur Bebek dadar,Makanan dan Minuman
+1226,Telur bebek tambak segar,Makanan dan Minuman
+1227,Telur Bebek telur asin,Makanan dan Minuman
+1228,Telur burung puyuh segar,Makanan dan Minuman
+1229,Telur Penyu,Makanan dan Minuman
+1230,Telur Terubuk,Makanan dan Minuman
+1231,Tempe bongkrek,Makanan dan Minuman
+1232,Tempe Gembus,Makanan dan Minuman
+1233,Tempe gembus yogya,Makanan dan Minuman
+1234,Tempe Goreng ,Makanan dan Minuman
+1235,Tempe kacang babi,Makanan dan Minuman
+1236,Tempe kacang belimbing,Makanan dan Minuman
+1237,Tempe kedelai + jagung,Makanan dan Minuman
+1238,Tempe kedelai murni goreng,Makanan dan Minuman
+1239,Tempe kedelai murni mentah,Makanan dan Minuman
+1240,Tempe koro benguk,Makanan dan Minuman
+1241,Tempe lamtoro var. gung dengan kulit,Makanan dan Minuman
+1242,Tempe lamtoro var. gung tanpa kulit,Makanan dan Minuman
+1243,Tempe pasar segar,Makanan dan Minuman
+1244,Tempe pasar goreng,Makanan dan Minuman
+1245,Tempe Sayur ,Makanan dan Minuman
+1246,Tempoya,Makanan dan Minuman
+1247,Tempuyak,Makanan dan Minuman
+1248,Tepung Arrowroot,Makanan dan Minuman
+1249,Tepung Beras,Makanan dan Minuman
+1250,Tepung beras mentah,Makanan dan Minuman
+1251,Tepung Ganyong,Makanan dan Minuman
+1252,Tepung Gaplek,Makanan dan Minuman
+1253,Tepung Garut (arrowroot),Makanan dan Minuman
+1254,Tepung Hunkwee,Makanan dan Minuman
+1255,Tepung Ikan,Makanan dan Minuman
+1256,Tepung Jagung Kuning,Makanan dan Minuman
+1257,Tepung jagung putih,Makanan dan Minuman
+1258,Tepung Jalejo,Makanan dan Minuman
+1259,Tepung Kacang Kedelai,Makanan dan Minuman
+1260,Tepung Kentang,Makanan dan Minuman
+1261,Tepung Mocaf,Makanan dan Minuman
+1262,Tepung Pisang,Makanan dan Minuman
+1263,Tepung Sagu,Makanan dan Minuman
+1264,Tepung Sente,Makanan dan Minuman
+1265,Tepung singkong/ Tapioka,Makanan dan Minuman
+1266,Tepung Sukun,Makanan dan Minuman
+1267,Tepung Susu,Makanan dan Minuman
+1268,Tepung Susu Asam untuk bayi,Makanan dan Minuman
+1269,Tepung Susu Skim,Makanan dan Minuman
+1270,Tepung Tales Beneng,Makanan dan Minuman
+1271,Tepung Terigu,Makanan dan Minuman
+1272,Tepung Ubi Ungu,Makanan dan Minuman
+1273,Terasi,Makanan dan Minuman
+1274,Terasi dobo,Makanan dan Minuman
+1275,Terasi Merah,Makanan dan Minuman
+1276,Terasi merah,Makanan dan Minuman
+1277,Teri balado masakan,Makanan dan Minuman
+1278,Teripang dendeng mentah,Makanan dan Minuman
+1279,Terong,Makanan dan Minuman
+1280,Terong + Oncom makanan,Makanan dan Minuman
+1281,Terong Asam,Makanan dan Minuman
+1282,Terong Belanda,Makanan dan Minuman
+1283,Terong hintalo segar,Makanan dan Minuman
+1284,Terong kukus,Makanan dan Minuman
+1285,Terong segar,Makanan dan Minuman
+1286,Terung belanda segar,Makanan dan Minuman
+1287,Terung bengkulu segar,Makanan dan Minuman
+1288,Terung panjang,Makanan dan Minuman
+1289,Terung panjang kukus,Makanan dan Minuman
+1290,Tespong daun,Makanan dan Minuman
+1291,Tim (nasi tim),Makanan dan Minuman
+1292,Tinira ninahu nggaluku,Makanan dan Minuman
+1293,Tinoransak masakan,Makanan dan Minuman
+1294,Tipa-tipa,Makanan dan Minuman
+1295,Tiwul  ,Makanan dan Minuman
+1296,Tiwul Instan,Makanan dan Minuman
+1297,Toge -Tahu makanan,Makanan dan Minuman
+1298,Toge Goreng ,Makanan dan Minuman
+1299,Toge kacang ijo,Makanan dan Minuman
+1300,Toge kacang tunggak,Makanan dan Minuman
+1301,Toge kedelai,Makanan dan Minuman
+1302,Toge seduh,Makanan dan Minuman
+1303,Tomat air (juice) segar,Makanan dan Minuman
+1304,Tomat Masak,Makanan dan Minuman
+1305,Tomat merah segar,Makanan dan Minuman
+1306,Tomat muda segar,Makanan dan Minuman
+1307,Tumis bandeng,Makanan dan Minuman
+1308,Tumis bayam bersantan,Makanan dan Minuman
+1309,Ubi Cilembu,Makanan dan Minuman
+1310,Ubi Jalar Goreng ,Makanan dan Minuman
+1311,Ubi jalar kuning kukus,Makanan dan Minuman
+1312,Ubi jalar kuning segar,Makanan dan Minuman
+1313,Ubi jalar manis segar,Makanan dan Minuman
+1314,Ubi Jalar Merah,Makanan dan Minuman
+1315,Ubi jalar merah segar,Makanan dan Minuman
+1316,Ubi Jalar Putih,Makanan dan Minuman
+1317,Ubi Jalar Rebus,Makanan dan Minuman
+1318,Ubi Jalar Sayur,Makanan dan Minuman
+1319,Ubi jalar tinta/ kemayung,Makanan dan Minuman
+1320,Ubi jalar tinta/ kemayung kukus,Makanan dan Minuman
+1321,Uceng/ bunga melinjo segar,Makanan dan Minuman
+1322,Udang besar segar,Makanan dan Minuman
+1323,Udang galah segar,Makanan dan Minuman
+1324,Udang kering,Makanan dan Minuman
+1325,Udang kering mentah,Makanan dan Minuman
+1326,Udang papay mentah,Makanan dan Minuman
+1327,Udang segar,Makanan dan Minuman
+1328,Ulat sagu panggang,Makanan dan Minuman
+1329,Ulat sagu segar,Makanan dan Minuman
+1330,Umbi Uwi segar,Makanan dan Minuman
+1331,Umbut rotan,Makanan dan Minuman
+1332,Usus Sapi,Makanan dan Minuman
+1333,Uwi,Makanan dan Minuman
+1334,Vermicelli,Makanan dan Minuman
+1335,Wajit camilan,Makanan dan Minuman
+1336,Waluh balamak,Makanan dan Minuman
+1337,Widaran,Makanan dan Minuman
+1338,Wijen,Makanan dan Minuman
+1339,Wingko babat,Makanan dan Minuman
+1340,Woku ubi,Makanan dan Minuman
+1341,Worst (sosis daging),Makanan dan Minuman
+1342,Wortel Segar,Makanan dan Minuman
+1343,Wortel kukus,Makanan dan Minuman
+1344,Wortel rebus,Makanan dan Minuman
+1345,Yangko,Makanan dan Minuman
+1346,Yoghurt,Makanan dan Minuman
+1347,Blouse,Belanja
+1348,Sweater,Belanja
+1349,Jeans,Belanja
+1350,Sandals,Belanja
+1352,Sneakers,Belanja
+1353,Shirt,Belanja
+1354,Shorts,Belanja
+1355,Coat,Belanja
+1356,Handbag,Belanja
+1357,Shoes,Belanja
+1360,Dress,Belanja
+1362,Skirt,Belanja
+1363,Sunglasses,Belanja
+1366,Pants,Belanja
+1371,Jacket,Belanja
+1372,Hoodie,Belanja
+1373,Jewelry,Belanja
+1381,T-shirt,Belanja
+1388,Scarf,Belanja
+1391,Hat,Belanja
+1392,Socks,Belanja
+1403,Backpack,Belanja
+1406,Belt,Belanja
+1411,Boots,Belanja
+1421,Gloves,Belanja
+6002,Beli Alat Tulis Kerja,Belanja
+6003,Beli ATK,Belanja
+6004,Buku,Belanja
+6005,Pensil,Belanja
+6006,Pulpen,Belanja
+6007,Penghapus,Belanja
+6008,Penggaris,Belanja
+6009,Rautan Pensil,Belanja
+6010,Pensil Warna,Belanja
+6011,Pemutih,Belanja
+5247,Pasar Tanah Abang,Hiburan
+5248,Perpustakaan Nasional,Hiburan
+5249,Pulau Tidung,Hiburan
+5250,Museum Satria Mandala,Hiburan
+5251,Waterboom PIK (Pantai Indah Kapuk),Hiburan
+5252,Alive Museum Ancol,Hiburan
+5253,Kota Tua,Hiburan
+5254,Galeri Nasional Indonesia,Hiburan
+5255,Taman Impian Jaya Ancol,Hiburan
+5256,Hutan Kota Srengseng,Hiburan
+5257,Taman Mini Indonesia Indah (TMII),Hiburan
+5258,Mall Thamrin City,Hiburan
+5259,Museum Joang 45,Hiburan
+5260,Museum Sumpah Pemuda,Hiburan
+5261,Klenteng Jin De Yuan,Hiburan
+5262,Taman Menteng,Hiburan
+5263,Wisata Agro Edukatif Istana Susu Cibugary,Hiburan
+5264,Nol Kilometer Jl.Malioboro,Hiburan
+5265,Air Terjun Kedung Pedut,Hiburan
+5266,Alun-alun Utara Keraton Yogyakarta,Hiburan
+5267,Pantai Indrayanti,Hiburan
+5268,Candi Ijo,Hiburan
+5269,Hutan Pinus Pengger,Hiburan
+5270,Candi Prambanan,Hiburan
+5271,Pantai Patihan,Hiburan
+5272,Gembira Loka Zoo,Hiburan
+5273,The Lost World Castle,Hiburan
+5274,Puncak Segoro,Hiburan
+5275,Bukit Wisata Pulepayung,Hiburan
+5276,Pantai Glagah,Hiburan
+5277,Desa Wisata Sungai Code Jogja Kota,Hiburan
+5278,Kampung Wisata Taman Sari,Hiburan
+5279,Jurang Tembelan Kanigoro,Hiburan
+5280,De Mata Museum Jogja,Hiburan
+5281,Watu Lumbung,Hiburan
+5282,Sindu Kusuma Edupark (SKE),Hiburan
+5283,Pasar Beringharjo,Hiburan
+5284,Dago Dreampark,Hiburan
+5285,Gunung Tangkuban Perahu,Hiburan
+5286,Museum Geologi Bandung,Hiburan
+5287,Museum Konferensi Asia Afrika,Hiburan
+5288,Kyotoku Floating Market,Hiburan
+5289,Glamping Lakeside Rancabali,Hiburan
+5290,Gereja Katedral Santo Petrus Bandung,Hiburan
+5291,Caringin Tilu,Hiburan
+5292,NuArt Sculpture Park,Hiburan
+5293,Taman Hutan Raya Ir. H. Djuanda,Hiburan
+5294,Situ Patenggang,Hiburan
+5295,Taman Begonia,Hiburan
+5296,Alun-Alun Kota Bandung,Hiburan
+5297,Rainbow Garden,Hiburan
+5298,Masjid Raya Bandung,Hiburan
+5299,Kawah Putih,Hiburan
+5300,Museum Gedung Sate,Hiburan
+5301,Kebun Binatang Bandung,Hiburan
+5302,Kawasan Punclut,Hiburan
+5303,Curug Dago,Hiburan
+5304,Candi Gedong Songo,Hiburan
+5305,Grand Maerakaca,Hiburan
+5306,Pantai Baruna,Hiburan
+5307,Indonesia Kaya Park,Hiburan
+5308,Jembatan Biru Ambarawa,Hiburan
+5309,Air Terjun Semirang,Hiburan
+5310,Saloka Theme Park,Hiburan
+5311,Water Blaster Bukit Candi Golf,Hiburan
+5312,Waduk Jatibarang,Hiburan
+5313,Kampoeng Djadhoel Semarang,Hiburan
+5314,Wisata Lereng Kelir,Hiburan
+5315,GPIB Immanuel Semarang (Gereja Blenduk),Hiburan
+5316,Monumen Palagan Ambarawa,Hiburan
+5317,Kampung Pelangi,Hiburan
+5318,Wisata Mangrove Tapak,Hiburan
+5319,Tirto Argo Siwarak,Hiburan
+5320,Desa Wisata Lembah Kalipancur,Hiburan
+5321,Taman Prestasi,Hiburan
+5322,Museum Sepuluh Nopember Kota Surabaya,Hiburan
+5323,Masjid Muhammad Cheng Hoo,Hiburan
+5324,Ciputra Waterpark,Hiburan
+5325,Air Mancur Menari,Hiburan
+5326,Museum De Javasche Bank,Hiburan
+5327,Surabaya North Quay,Hiburan
+5328,Taman Buah Surabaya,Hiburan
+5329,Rumah Batik,Hiburan
+5330,Monumen Tugu Pahlawan,Hiburan
+5331,Ekowisata Mangrove Wonorejo,Hiburan
+5332,Taman Kunang-Kunang,Hiburan
+5333,Museum TNI AL Loka Jala Crana,Hiburan
+5334,Museum Kesehatan Dr. Adhyatma,Hiburan
+5335,Taman Ekspresi Dan Perpustakaan,Hiburan
+5336,Taman Ayodya,Hiburan
+5337,Pasar Taman Puring,Hiburan
+5338,Monas,Hiburan
+5339,Pulau Bidadari,Hiburan
+5340,Museum Wayang,Hiburan
+5341,Jakarta Aquarium dan Safari,Hiburan
+5342,Ocean Ecopark,Hiburan
+5343,Museum Bank Indonesia,Hiburan
+5344,Museum Seni Rupa dan Kramik,Hiburan
+5345,Jembatan Kota Intan,Hiburan
+5346,Taman Cattleya,Hiburan
+5347,Grand Indonesia Mall,Hiburan
+5348,Museum Fatahillah,Hiburan
+5349,Tugu Proklamasi,Hiburan
+5350,Masjid Istiqlal,Hiburan
+5351,Taman Suropati,Hiburan
+5352,Bumi Perkemahan Cibubur,Hiburan
+5353,Alun Alun Selatan Yogyakarta,Hiburan
+5354,Puncak Gunung Api Purba - Nglanggeran,Hiburan
+5355,Pantai Nglambor,Hiburan
+5356,Bentara Budaya Yogyakarta (BBY),Hiburan
+5357,Candi Borobudur,Hiburan
+5358,Pantai Kukup,Hiburan
+5359,Kampung Wisata Kadipaten,Hiburan
+5360,Monumen Sanapati,Hiburan
+5361,Taman Pelangi Jogja,Hiburan
+5362,Hutan Pinus Asri,Hiburan
+5363,Pantai Drini,Hiburan
+5364,Kawasan Malioboro,Hiburan
+5365,Monumen Serangan Umum 1 Maret,Hiburan
+5366,Lava Bantal,Hiburan
+5367,Bunker Kaliadem Merapi,Hiburan
+5368,Taman Pelangi Yogyakarta,Hiburan
+5369,Pasar Kebon Empring Bintaran,Hiburan
+5370,Orchid Forest Cikole,Hiburan
+5371,Gunung Papandayan,Hiburan
+5372,Museum Sri Baduga,Hiburan
+5373,Monumen Perjuangan Rakyat Jawa Barat,Hiburan
+5374,Mountain View Golf Club,Hiburan
+5375,Taman Miniatur Kereta Api,Hiburan
+5376,Masjid Pusdai,Hiburan
+5377,Curug Anom,Hiburan
+5378,Pesona Nirwana Waterpark & Cottages,Hiburan
+5379,Tebing Karaton,Hiburan
+5380,Curug Malela,Hiburan
+5381,Taman Balai Kota Bandung,Hiburan
+5382,Kota Mini,Hiburan
+5383,Taman Lansia,Hiburan
+5384,Panghegar Waterboom Bandung,Hiburan
+5385,Roemah Seni Sarasvati,Hiburan
+5386,Lembang Park & Zoo,Hiburan
+5387,Lawangwangi Creative Space,Hiburan
+5388,Curug Batu Templek,Hiburan
+5389,Lawang Sewu,Hiburan
+5390,Pantai Marina,Hiburan
+5391,Taman Pandanaran,Hiburan
+5392,Masjid Agung Ungaran,Hiburan
+5393,Obyek Wisata Goa Kreo,Hiburan
+5394,Kampung Batik Gedong Semarang,Hiburan
+5395,Pura Giri Natha,Hiburan
+5396,Masjid Kapal Semarang,Hiburan
+5397,Benteng Pendem,Hiburan
+5398,Hutan Wisata Tinjomoyo Semarang,Hiburan
+5399,Umbul Sidomukti,Hiburan
+5400,Wisata Eling Bening,Hiburan
+5401,Kampoeng Rawa,Hiburan
+5402,Taman Keputran,Hiburan
+5403,Masjid Nasional Al-Akbar,Hiburan
+5404,Kenjeran Park,Hiburan
+5405,Monumen Kapal Selam,Hiburan
+5406,Surabaya Museum (Gedung Siola),Hiburan
+5407,Waterpark Kenjeran Surabaya,Hiburan
+5408,Taman Pelangi,Hiburan
+5409,Jembatan Merah,Hiburan
+5410,Monumen Jalesveva Jayamahe,Hiburan
+5411,Taman Harmoni Keputih,Hiburan
+5412,Klenteng Sanggar Agung,Hiburan
+5413,Taman Hiburan Rakyat,Hiburan
+5414,Patung Buddha Empat Rupa,Hiburan
+5415,Hutan Bambu Keputih,Hiburan
+5416,Museum Tekstil,Hiburan
+5417,Pasar Petak Sembilan,Hiburan
+5418,Pulau Pari,Hiburan
+5419,Museum Bahari Jakarta,Hiburan
+5420,SnowBay Waterpark,Hiburan
+5421,Galeri Indonesia Kaya,Hiburan
+5422,Freedom Library,Hiburan
+5423,Pasar Seni,Hiburan
+5424,Plaza Indonesia,Hiburan
+5425,Museum Basoeki Abdullah,Hiburan
+5426,Gereja Katedral,Hiburan
+5427,Taman Lapangan Banteng,Hiburan
+5428,Taman Situ Lembang,Hiburan
+5429,Tugu Pal Putih Jogja,Hiburan
+5430,Watu Mabur Mangunan,Hiburan
+5431,Pantai Parangtritis,Hiburan
+5432,Desa Wisata Pulesari,Hiburan
+5433,Hutan Mangrove Kulon Progo,Hiburan
+5434,Tebing Breksi,Hiburan
+5435,Green Village Gedangsari,Hiburan
+5436,Galaxy Waterpark Jogja,Hiburan
+5437,Kebun Teh Nglinggo,Hiburan
+5438,Pantai Wediombo,Hiburan
+5439,Kauman Pakualaman Yogyakarta,Hiburan
+5440,Puncak Kebun Buah Mangunan,Hiburan
+5441,Watu Goyang,Hiburan
+5442,Goa Rancang Kencono,Hiburan
+5443,Kawasan Wisata Sosrowijayan,Hiburan
+5444,Jendela Alam,Hiburan
+5445,Gunung Manglayang,Hiburan
+5446,Museum Pendidikan Nasional,Hiburan
+5447,Museum Mandala Wangsit Siliwangi,Hiburan
+5448,Trans Studio Bandung,Hiburan
+5449,Masjid Al-Imtizaj,Hiburan
+5450,Bukit Jamur,Hiburan
+5451,Panama Park 825,Hiburan
+5452,Kampung Korea Bandung,Hiburan
+5453,Taman Kupu-Kupu Cihanjuang,Hiburan
+5454,Teras Cikapundung BBWS,Hiburan
+5455,Monumen Bandung Lautan Api,Hiburan
+5456,Saung Angklung Mang Udjo,Hiburan
+5457,Curug Cipanas,Hiburan
+5458,Curug Tilu Leuwi Opat,Hiburan
+5459,Curug Aseupan,Hiburan
+5460,Sam Poo Kong Temple,Hiburan
+5461,Pantai Cipta,Hiburan
+5462,Taman Srigunting,Hiburan
+5463,Tugu Muda Semarang,Hiburan
+5464,Watu Gunung Ungaran,Hiburan
+5465,Kampoeng Kopi Banaran,Hiburan
+5466,Semarang Gallery,Hiburan
+5467,Old City 3D Trick Art Museum,Hiburan
+5468,Museum Kereta Ambarawa,Hiburan
+5469,Taman Kasmaran,Hiburan
+5470,Wisata Alam Wana Wisata Penggaron,Hiburan
+5471,Semarang Chinatown,Hiburan
+5472,Gua Maria Kerep Ambarawa,Hiburan
+5473,Kota Lama Semarang,Hiburan
+5474,Taman Bungkul,Hiburan
+5475,Kebun Binatang Surabaya,Hiburan
+5476,Pantai Ria Kenjeran,Hiburan
+5477,Balai Kota Surabaya,Hiburan
+5478,Food Junction Grand Pakuwon,Hiburan
+5479,Taman Barunawati,Hiburan
+5480,Patung Sura dan Buaya,Hiburan
+5481,Taman Air Mancur Menari Kenjeran,Hiburan
+5482,Pulau Pramuka,Hiburan
+5483,Museum Macan (Modern and Contemporary Art in Nusantara),Hiburan
+5484,Wisata Kuliner Pecenongan,Hiburan
+5485,Museum Taman Prasasti,Hiburan
+5486,Museum Layang-layang,Hiburan
+5487,Taman Agrowisata Cilangkap,Hiburan
+5488,Bukit Lintang Sewu,Hiburan
+5489,Geoforest Watu Payung Turunan,Hiburan
+5490,Pantai Sundak,Hiburan
+5491,Pantai Nguluran,Hiburan
+5492,Embung Tambakboyo,Hiburan
+5493,Pantai Depok Jogja,Hiburan
+5494,Goa Pindul,Hiburan
+5495,Pantai Jogan,Hiburan
+5496,Seribu Batu Songgo Langit,Hiburan
+5497,Pintoe Langit Dahromo,Hiburan
+5498,The World Landmarks - Merapi Park Yogyakarta,Hiburan
+5499,Sudut Pandang Bandung,Hiburan
+5500,Taman Film,Hiburan
+5501,Taman Sejarah Bandung,Hiburan
+5502,Kebun Tanaman Obat Sari Alam,Hiburan
+5503,Water Park Bandung Indah,Hiburan
+5504,Kiara Artha Park,Hiburan
+5505,Gua Pawon,Hiburan
+5506,Taman Vanda,Hiburan
+5507,Museum Pos Indonesia,Hiburan
+5508,Tafso Barn,Hiburan
+5509,Taman Budaya Jawa Barat,Hiburan
+5510,Taman Tabanas,Hiburan
+5511,Brown Canyon,Hiburan
+5512,Flower Farm Setiya Aji,Hiburan
+5513,Semarang Contemporary Art Gallery,Hiburan
+5514,La Kana Chapel,Hiburan
+5515,Taman Flora Bratang Surabaya,Hiburan
+5516,Atlantis Land Surabaya,Hiburan
+5517,Museum Mpu Tantular,Hiburan
+5518,Taman Mundu,Hiburan
+5519,Monumen Bambu Runcing Surabaya,Hiburan
+5520,Kebun Bibit Wonorejo,Hiburan
+5521,Pulau Pelangi,Hiburan
+5522,Museum Nasional,Hiburan
+5523,Museum Perangko,Hiburan
+5524,Taman Spathodea,Hiburan
+5525,Bendung Lepen,Hiburan
+5526,Pantai Krakal,Hiburan
+5527,Pantai Samas,Hiburan
+5528,Wisata Kalibiru,Hiburan
+5529,Pantai Ngrenehan,Hiburan
+5530,"Bukit Paralayang, Watugupit",Hiburan
+5531,Wisata Kaliurang,Hiburan
+5532,Museum Nike Ardilla,Hiburan
+5533,Chingu Cafe Little Seoul,Hiburan
+5534,Peta Park,Hiburan
+5535,Stone Garden Geopark,Hiburan
+5536,Ade Irma Suryani Nasution Traffic Park,Hiburan
+5537,Curug Bugbrug,Hiburan
+5538,Curug Luhur Waterfall,Hiburan
+5539,Kampung Tematik Jawi,Hiburan
+5540,Durian Gardens and Tourism Education Watu Simbar,Hiburan
+5541,Hutan Pinus Kayon,Hiburan
+5542,Keraton Surabaya,Hiburan
+5543,Gereja Perawan Maria Tak Berdosa Surabaya,Hiburan
+5544,House of Sampoerna,Hiburan
+5545,Banda Aceh,Hiburan
+5546,Bandung,Hiburan
+5547,Palembang,Hiburan
+5548,Padang,Hiburan
+5549,Bengkulu,Hiburan
+5550,Pekanbaru,Hiburan
+5551,Tanjung Pinang,Hiburan
+5552,Jambi,Hiburan
+5553,Lampung,Hiburan
+5554,Pangkal Pinang,Hiburan
+5555,Riau,Hiburan
+5556,Kepulauan Riau,Hiburan
+5557,Bangka Belitung,Hiburan
+5558,Pontianak,Hiburan
+5559,Palangkaraya,Hiburan
+5560,Banjarbaru,Hiburan
+5561,Tanjung Selor,Hiburan
+5562,Jakarta,Hiburan
+5563,Banten,Hiburan
+5564,Serang,Hiburan
+5565,Nanggroe Aceh Darussalam,Hiburan
+5566,Sumatera Utara,Hiburan
+5567,Sumatera Selatan,Hiburan
+5568,Sumatera Barat,Hiburan
+5569,Kalimantan Timur,Hiburan
+5570,Kalimantan Barat,Hiburan
+5571,Kalimantan Tengah,Hiburan
+5572,Kalimantan Selatan,Hiburan
+5573,Kalimantan Utara,Hiburan
+5574,Dki Jakarta,Hiburan
+5575,Jawa Barat,Hiburan
+5576,Jawa Tengah,Hiburan
+5577,Semarang,Hiburan
+5578,DI Yogyakarta,Hiburan
+5579,Yogyakarta,Hiburan
+5580,Jogja,Hiburan
+5581,Jogjakarta,Hiburan
+5582,Jawa Timur,Hiburan
+5583,Surabaya,Hiburan
+5584,Bali,Hiburan
+5585,Denpasar,Hiburan
+5586,Nusa Tenggara Barat,Hiburan
+5587,Mataram,Hiburan
+5588,Nusa Tenggara Timur,Hiburan
+5589,Kupang,Hiburan
+5590,Sulawesi Utara,Hiburan
+5591,Manado,Hiburan
+5592,Sulawesi Barat,Hiburan
+5593,Palu,Hiburan
+5594,Gorontalo,Hiburan
+5595,Sulawesi Tenggara,Hiburan
+5596,Kendari,Hiburan
+5597,Sulawesi Selatan,Hiburan
+5598,Makassar,Hiburan
+5599,Maluku Utara,Hiburan
+5600,Sofifi,Hiburan
+5601,Maluku,Hiburan
+5602,Ambon,Hiburan
+5603,Papua Barat,Hiburan
+5604,Manokwari,Hiburan
+5605,Papua,Hiburan
+5606,Jayapura,Hiburan
+5607,Papua Selatan,Hiburan
+5608,Merauke,Hiburan
+5609,Papua Tengah,Hiburan
+5610,Nabire,Hiburan
+5611,Papua Pegunungan,Hiburan
+5612,Jayawijaya,Hiburan
+5613,Monumen Nasional,Hiburan
+5614,Dunia Fantasi,Hiburan
+5615,Atlantis Water Adventure,Hiburan
+5616,Kebun Binatang Ragunan,Hiburan
+5617,Pelabuhan Marina,Hiburan
+5618,Kidzania,Hiburan
+5619,Pecinan Glodok,Hiburan
+5620,Sea World,Hiburan
+5621,Wisata Alam Mangrove Angke,Hiburan
+5622,Setu Babakan,Hiburan
+5623,Skyrink - Mall Taman Anggrek,Hiburan
+5624,Istana Negara Republik Indonesia,Hiburan
+5625,The Escape Hunt,Hiburan
+5626,Monumen Selamat Datang,Hiburan
+5627,Pulau Semak Daun,Hiburan
+5628,Taman Ismail Marzuki,Hiburan
+5629,Jakarta Planetarium,Hiburan
+5630,Kampung Cina,Hiburan
+5631,Rumah Sipitung,Hiburan
+5632,Pantai Ancol,Hiburan
+5633,Taman Legenda Keong Emas,Hiburan
+5634,Museum Kebangkitan Nasional,Hiburan
+5635,Museum Sasmita Loka Ahmad Yani,Hiburan
+5636,Margasatwa Muara Angke,Hiburan
+5637,Cibubur Garden Diary (Cibugary),Hiburan
+5638,Museum Tengah Kebun,Hiburan
+5639,Taman Hutan Tebet,Hiburan
+5640,Kawasan Kuliner BSM,Hiburan
+5641,Taman Pintar Yogyakarta,Hiburan
+5642,Keraton Yogyakarta,Hiburan
+5643,Museum Benteng Vredeburg Yogyakarta,Hiburan
+5644,Situs Warungboto,Hiburan
+5645,Sumur Gumuling,Hiburan
+5646,Monumen Yogya Kembali,Hiburan
+5647,Taman Budaya Yogyakarta,Hiburan
+5648,Kampung Wisata Sosro Menduran,Hiburan
+5649,Monumen Batik Yogyakarta,Hiburan
+5650,Candi Donotirto,Hiburan
+5651,Bangsal Pagelaran,Hiburan
+5652,Puncak Pinus Becici,Hiburan
+5653,Bukit Bintang Yogyakarta,Hiburan
+5654,Gedung Agung Yogyakarta,Hiburan
+5655,Museum Sonobudoyo Unit I,Hiburan
+5656,Bukit Panguk Kediwung,Hiburan
+5657,Kampung Wisata Rejowinangun,Hiburan
+5658,Pantai Goa Cemara,Hiburan
+5659,Blue Lagoon Jogja,Hiburan
+5660,Gumuk Pasir Parangkusumo,Hiburan
+5661,Studio Alam Gamplong,Hiburan
+5662,Desa Wisata Gamplong,Hiburan
+5663,Grojogan Watu Purbo Bangunrejo,Hiburan
+5664,Wisata Alam Kalibiru,Hiburan
+5665,Jogja Exotarium,Hiburan
+5666,Ledok Sambi,Hiburan
+5667,Goa Jomblang,Hiburan
+5668,Desa Wisata Rumah Domes/Teletubbies,Hiburan
+5669,Goa Cerme,Hiburan
+5670,Wisata Kraton Jogja,Hiburan
+5671,Desa Wisata Kelor,Hiburan
+5672,Pantai Ngrawe (Mesra),Hiburan
+5673,Pantai Ngobaran,Hiburan
+5674,Pantai Pulang Sawal,Hiburan
+5675,Pantai Baron,Hiburan
+5676,Pantai Pok Tunggal,Hiburan
+5677,Kampung Wisata Dipowinatan,Hiburan
+5678,Pantai Timang,Hiburan
+5679,Museum Ullen Sentalu,Hiburan
+5680,Museum Gunung Merapi,Hiburan
+5681,Candi Ratu Boko,Hiburan
+5682,Jogja Bay Pirates Adventure Waterpark,Hiburan
+5683,Pantai Sepanjang,Hiburan
+5684,Pantai Siung,Hiburan
+5685,Pantai Sadranan,Hiburan
+5686,Air Terjun Sri Gethuk,Hiburan
+5687,Candi Sewu,Hiburan
+5688,Pantai Jungwok,Hiburan
+5689,Pantai Greweng,Hiburan
+5690,Pantai Sedahan,Hiburan
+5691,Pantai Watu Kodok,Hiburan
+5692,Pantai Kesirat,Hiburan
+5693,Pantai Ngandong,Hiburan
+5694,Desa Wisata Tembi,Hiburan
+5695,Heha Sky View,Hiburan
+5696,Taman Sungai Mudal,Hiburan
+5697,Pantai Sanglen,Hiburan
+5698,Pantai Congot,Hiburan
+5699,GunungTangkuban perahu,Hiburan
+5700,Jalan Braga,Hiburan
+5701,Gedung Sate,Hiburan
+5702,Farm House Susu Lembang,Hiburan
+5703,Dusun Bambu,Hiburan
+5704,Rabbit Town,Hiburan
+5705,Stone Garden Citatah,Hiburan
+5706,The Great Asia Africa,Hiburan
+5707,Bukit Moko,Hiburan
+5708,Amazing Art World,Hiburan
+5709,Gua Belanda,Hiburan
+5710,Taman Lalu Lintas Ade Irma Suryani Nasution,Hiburan
+5711,Kampung Batu Malakasari,Hiburan
+5712,Upside Down World Bandung,Hiburan
+5713,Kampoeng Tulip,Hiburan
+5714,Selasar Sunaryo Art Space,Hiburan
+5715,Museum Barli,Hiburan
+5716,Wisata Batu Kuda,Hiburan
+5717,Ciwangun Indah Camp Official,Hiburan
+5718,Wot Batu,Hiburan
+5719,Bumi Perkemahan Batu Kuda,Hiburan
+5720,Bukit Bintang,Hiburan
+5721,Babakan Siliwangi City Forest Path Bandung,Hiburan
+5722,Taman Jomblo,Hiburan
+5723,Masjid Daarut Tauhiid Bandung,Hiburan
+5724,Masjid Agung Trans Studio Bandung,Hiburan
+5725,Gereja Tiberias Indonesia Bandung,Hiburan
+5726,Tektona Waterpark,Hiburan
+5727,Curug Cilengkrang,Hiburan
+5728,Jembatan Pasupati,Hiburan
+5729,Pasar Baru,Hiburan
+5730,Puspa Iptek Sundial,Hiburan
+5731,Masjid Salman ITB,Hiburan
+5732,Taman Badak,Hiburan
+5733,Batununggal Indah Club,Hiburan
+5734,Gunung Lalakon,Hiburan
+5735,Sendang Geulis Kahuripan,Hiburan
+5736,Sanghyang Heuleut,Hiburan
+5737,Lereng Anteng Panoramic Coffee Place,Hiburan
+5738,Situ Cileunca,Hiburan
+5739,Sunrise Point Cukul,Hiburan
+5740,Sungai Palayangan,Hiburan
+5741,Perkebunan Teh Malabar,Hiburan
+5742,Pemandian Air Panas Ciater,Hiburan
+5743,Observatorium Bosscha,Hiburan
+5744,Taman Bunga Cihideung,Hiburan
+5745,The Lodge Maribaya,Hiburan
+5746,Taman Hutan Raya Ir. H. Juanda,Hiburan
+5747,Curug Cimahi,Hiburan
+5748,Kawah Rengganis Cibuni,Hiburan
+5749,Pemandian Air Panas Cimanggu,Hiburan
+5750,Happyfarm Ciwidey,Hiburan
+5751,Bukit Gantole Cililin,Hiburan
+5752,Bandros City Tour,Hiburan
+5753,Taman Bunga Celosia,Hiburan
+5754,Air Terjun Kali Pancur,Hiburan
+5755,Wisata Kampung Krisan Clapar,Hiburan
+5756,Danau Rawa Pening,Hiburan
+5757,Pantai Maron,Hiburan
+5758,Goa Rong,Hiburan
+5759,Bensin,Lainnya
+5760,Bayar Listrik,Lainnya
+5761,Bayar Air,Lainnya
+5762,Pajak Motor,Lainnya
+5763,Pajak Mobil,Lainnya
+5764,Bayar BBM,Lainnya
+5765,Transfer,Lainnya
+5766,Iuran Lembaga,Lainnya
+5767,Bea Cukai,Lainnya
+5768,Vaksin Anjing,Lainnya
+5769,Vaksin Kucing,Lainnya
+5770,TF,Lainnya
+5771,Iuran Kelas,Lainnya
+5772,Denda,Lainnya
+5773,Iuran,Lainnya
+5774,Sedekah,Lainnya
+5775,Sewa Apartemen,Lainnya
+5776,Sewa Kost,Lainnya
+5777,Sewa Mobil,Lainnya
+5778,Sewa,Lainnya
+5779,Gojek,Lainnya 
+5780,Sewa Motor,Lainnya
+5781,Sewa Sepeda,Lainnya
+5782,Ojek,Lainnya
+5783,Biaya Administrasi Puskesmas,Lainnya
+5784,Biaya Tambahan Puskses,Lainnya
+5785,Biaya Asuransi,Lainnya
+5786,Biaya BPJS,Lainnya
+5787,Kirim Uang Buat Jajan Ayang,Lainnya
+5788,Kontrol,Lainnya
+5789,Biaya Rumah Sakit,Lainnya
+5790,Biaya Perjalanan,Lainnya
+5791,Ongkos,Lainnya
+5792,Biaya Les,Lainnya
+5793,Kursus,Lainnya
+5794,Kursus Mengemudi,Lainnya
+5795,Kursus Bahasa Inggris,Lainnya
+5796,Kursus Bahasa Jepang,Lainnya
+5797,Kursus Bahasa Mandarin,Lainnya
+5798,Kursus Bahasa Perancis,Lainnya
+5799,Kursus Bahasa Korea,Lainnya
+5800,Kursus Bahasa Jerman,Lainnya
+5801,Kursus Bahasa Belanda,Lainnya
+5802,Kursus Bahasa Arab,Lainnya
+5803,Kursus Bahasa Spanyol,Lainnya
+5804,Kursus Bahasa Italia,Lainnya
+5805,Kursus Bahasa Rusia,Lainnya
+5806,Kursus Memasak,Lainnya
+5807,Kursus Baking,Lainnya
+5808,Kursus Karate,Lainnya
+5809,Kursus Taekwondo,Lainnya
+5810,Kursus Renang,Lainnya
+5811,Kursus Wushu,Lainnya
+5812,Kursus Pencak Silat,Lainnya
+5813,Grab,Lainnya
+5814,Gopay,Lainnya
+5815,Amal,Lainnya
+5816,Zakat,Lainnya
+5817,Kurban,Lainnya
+5818,Servis,Lainnya
+5819,Servis HP,Lainnya
+5820,Servis Motor,Lainnya
+5821,Servis Mobil,Lainnya
+5822,Servis Sepeda,Lainnya
+5823,Servis Laptop,Lainnya
+5824,Ongkir,Lainnya
+5825,Pertamax,Lainnya
+5826,Pertalite,Lainnya
+5827,Dexlite,Lainnya
+5828,Pertamax Turbo,Lainnya
+5829,Token Listrik,Lainnya
+5830,Parkir,Lainnya
+5831,Cuci Motor,Lainnya
+5832,Cuci Mobil,Lainnya
+5833,Biaya Laundry,Lainnya
+5834,Bayar Hutang,Lainnya
+5835,Operasi,Lainnya
+5836,Biaya Lomba,Lainnya
+5837,Biaya Tes,Lainnya
+5838,Biaya Pembuatan SKCK,Lainnya
+5839,Biaya Pembuatan Dokumen,Lainnya
+5840,Biaya Pengacara,Lainnya
+5841,Kirim Uang,Lainnya
+5842,Bayar Hosting,Lainnya
+5843,Refund Gopay,Lainnya
+5844,Cicilan,Lainnya
+5845,Tambal Ban,Lainnya
+5846,Bayar UKT,Lainnya
+5847,Bayar Uang Kuliah,Lainnya
+5848,Parkir District,Lainnya
+5849,Github Copilot,Lainnya
+5850,Transjakarta,Lainnya
+5851,Naik Bus,Lainnya
+5852,Angkot,Lainnya
+5853,Notaris,Lainnya
+5854,Uang Amplop,Lainnya
+5855,Kondangan,Lainnya
+5856,Ganti Oli,Lainnya
+5857,Ganti Busi,Lainnya
+5858,Reset Injeksi,Lainnya
+5859,Joki Tugas,Lainnya
+5860,Joki Skripsi,Lainnya
+5861,Gaji Kuli Bangunan,Lainnya
+5862,Renovasi,Lainnya
+5863,Renovasi Rumah,Lainnya
+5864,Renovasi Kost,Lainnya
+5865,Renovasi Kontrakan,Lainnya
+5866,Cetak Foto,Lainnya
+5867,Pinjamin Uang, Lainnya
+5868,Print,Lainnya
+5869,Print Tugas,Lainnya
+5870,Print Laporan,Lainnya
+5871,Print Makalah,Lainnya
+5872,Print Foto,Lainnya
+5873,Transjogja,Lainnya
+5874,Utang Juli Lamian,Lainnya
+5875,Nyumbang,Lainnya
+5876,Dipinjam,Lainnya
+5877,Ongkos Grab Ke Kost,Lainnya
+5878,Join Membership Kentung,Lainnya
+5879,Ojol,Lainnya
+5880,Cicilan Mandiri,Lainnya
+5881,Cicilan Motor,Lainnya
+5882,Cicilan Rumah,Lainnya
+5883,Cicilan Kontrakan,Lainnya
+5884,Cicilan Tanah,Lainnya
+5885,Cicilan Kost,Lainnya
+5886,Indihome,Lainnya
+5887,Cicilan BRI,Lainnya
+5888,Cicilan BNI,Lainnya
+5889,Top Up Gopay,Lainnya
+5890,Bensin Mobil,Lainnya
+5891,Gocar,Lainnya
+5892,Taxi,Lainnya
+5893,Isi Pulsa Bapak,Lainnya
+5894,Bayar SPP,Lainnya
+5895,Bayar Pendaftaran Sekolah,Lainnya
+5896,Bayar Pendaftaran Kursus,Lainnya
+5897,Bayar Pendaftaran Tes,Lainnya
+5898,Bayar Pendaftaran Lomba,Lainnya
+5899,Bayar Pendaftaran,Lainnya
+5900,Biaya Langganan Premium,Lainnya
+5901,Imunisasi,Lainnya
+5902,ganti ban depan,Lainnya
+5903,bayar sampah,Lainnya
+5904,Bayar gaji tukang kebun,Lainnya
+5905,Bayar gaji pembantu,Lainnya
+5906,perpanjang smmku,Lainnya
+5907,Buat sumur,Lainnya
+5908,uang mama,Lainnya
+5909,nabung kantor,Lainnya
+5910,sodaqoh zakat,Lainnya
+5911,bayar paylater,Lainnya
+5912,bayar spinjam,Lainnya
+5913,bayar CC jenius,Lainnya
+5914,bayar kuliah,Lainnya
+5915,bayar internet,Lainnya
+5916,nabung,Lainnya
+5917,Setoran,Lainnya
+5918,bayar Spaylater Agustus,Lainnya
+5919,Cukur,Lainnya
+5920,Kuota,Lainnya
+5921,tes psikolog,Lainnya
+5922,SIm perpanjang,Lainnya
+5923,Bayar Wifi,Lainnya
+5924,bandar jakart,Lainnya
+5925,E tol,Lainnya
+5926,bayar tol,Lainnya
+5927,duit keluar,Lainnya
+5928,bayar toilet,Lainnya
+5929,tukang las,Lainnya
+5931,traveloka paylater,Lainnya
+5932,Pesawat Paman,Lainnya
+5933,pulsa mama,Lainnya
+5934,Akun Envato,Lainnya
+5935,saving,Lainnya
+5936,print jilid microteaching,Lainnya
+5937,Kelas Privat Kolonee,Lainnya
+5938,tambahan,Lainnya
+5939,Kelas Manajemen Waktu,Lainnya
+5940,cukur mang ade,Lainnya
+5941,isi angin,Lainnya
+5942,bayar mines kasir,Lainnya
+5943,cetak KTM KRS,Lainnya
+5944,perpanjangsimc,Lainnya
+5945,perbaiki motor,Lainnya
+5946,parkir untar,Lainnya
+5947,voucher axis,Lainnya
+5948,bensinmobil,Lainnya
+5949,co shopee,Lainnya
+5950,COD,Lainnya
+5951,sedekah pesta,Lainnya
+5952,minyak motor,Lainnya
+5953,mbayar hutang,Lainnya
+5954,cicil bmt,Lainnya
+5955,bayar pajek mobil,Lainnya
+5956,uku bunga Bmt,Lainnya
+5957,besuk bayi,Lainnya
+5958,besuk saudara,Lainnya
+5959,besuk teman,Lainnya
+5960,ganti pempes bensin,Lainnya
+5961,ganti ampas kopling,Lainnya
+5962,Ganti ampas rem,Lainnya
+5963,Transportas,Lainnya
+5965,Tambahan ganti ban,Lainnya
+5966,padliminjemduit,Lainnya
+5967,voucher,Lainnya
+5968,bayar wisuda,Lainnya
+5969,google play,Lainnya
+5970,kebutuhan/iuran kelas,Lainnya
+5971,jajan pulsa data,Lainnya
+5972,kas kamar,Lainnya
+5973,administrasi,Lainnya
+5974,paket data bulanan,Lainnya
+5975,bayar wifi rumah,Lainnya
+5976,topupemoney,Lainnya
+5977,bayar name tag adhigana banking,Lainnya
+5978,bayar name tag prodi banking,Lainnya
+5979,bayar uang kas kelas untuk sebulan,Lainnya
+5980,Turnitin,Lainnya
+5981,Parafrase,Lainnya
+5982,infaq Jumat,Lainnya
+5983,Biaya Upacara,Lainnya
+5984,ppt dr gendis,Lainnya
+5985,Jasa PPT,Lainnya
+5986,sewa kursi,Lainnya
+5987,Sewa Podium,Lainnya
+5988,Sewa Aula,Lainnya
+5988,Sewa Studio,Lainnya
+5990,nabung kas daman,Lainnya
+5991,tuker uang receh,Lainnya
+5992,tagihan indihome,Lainnya
+5993,iuran 2 pelati,Lainnya
+5994,pulsa telkom,Lainnya
+5995,jaksa,Lainnya
+5996,ngeprint,Lainnya
+5997,bayar PDAM,Lainnya
+5998,Periksa Mata,Lainnya
+5999,Periksa Gigi,Lainnya
+6000,Jasa Sedot Septictank,Lainnya
+6001,Ganti Ban,Lainnya
+
